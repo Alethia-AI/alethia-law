@@ -1,0 +1,35 @@
+# General:
+fastapi[all]
+uvicorn
+bcrypt
+supabase
+python-dotenv
+
+# Auth:
+PyJWT==2.8.0
+python-decouple==3.8
+pydantic[email]
+
+# Embeddings:
+openai
+numpy
+
+# Search:
+redis
+tavily-python
+cohere
+
+# Image:
+transformers
+Pillow
+torch
+
+
+# Evals:
+llama-index
+langchain
+pandas
+fastparquet
+
+# Orchestrator:
+enact
