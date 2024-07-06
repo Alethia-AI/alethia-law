@@ -27,6 +27,7 @@ torch
 
 # Evals:
 llama-index
+llama-parse
 langchain
 pandas
 fastparquet

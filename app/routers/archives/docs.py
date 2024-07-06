@@ -9,6 +9,7 @@ import httpx
 
 from ...schema.archives.docs import Doc, textMetadata
 from ...workers.archives.docs import create_doc, get_docs, delete_docs
+from ...workers.archives.processing.pdf import processor
 #from ..schema.archive.images import Image, imageMetadata
 #from ..workers.archive.images import create_image, get_images, delete_images
 
@@ -83,6 +84,29 @@ async def add_text_to_archives(textMetadata_: textMetadata):
     except Exception as e:
         return {"message": str(e)}, 400
     return JSONResponse(content={"message": f"{doc.title} archived successfully"}, status_code=200)
+
+
+@router.post("/text/add/case")
+async def add_case_to_archives(api_key: str, path: str):
+    try:
+        try:
+            documents = await processor.process_file(path)
+            print("Documents processor returned from PDFProcessor.")
+            for doc in documents:
+                doc_ = Doc(
+                    api_key=api_key,
+                    title=path.split("/")[-1].split(".")[0] + "_" + doc.id_,
+                    tags=["case"]
+                )
+                print("Creating doc: ", doc_)
+                res = create_doc(doc_, doc.text)
+                if not res:
+                    return JSONResponse(content={"message": "Failed to archive text"}, status_code=400)
+        except Exception as e:
+            return JSONResponse(content={"message": "error in processing text; " + str(e)}, status_code=400)
+    except Exception as e:
+        return {"message": str(e)}, 400
+    return JSONResponse(content={"message": f"archived successfully"}, status_code=200)
 
 
 @router.get("/text/get")

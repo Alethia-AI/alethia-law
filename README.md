@@ -1,5 +1,5 @@
-# Privocia-APIs
-The core restful APIs for Retrieval Orchestration for Privocia.
+# Alethia-Law-APIs
+The core restful APIs for Retrieval Orchestration for Alethia-Law.
 
 ## Setup
 
