@@ -18,6 +18,7 @@ def build_embeddings(title, texts):
     print(f"Title: {title}")
     #print(f"Building embeddings for {len(text)} paragraphs")
     for i in range(len(texts)):
+        print(f"Building embedding for paragraph {i}")
         #print(f"Building embedding for paragraph {i}")
         text_embedding = client.embeddings.create(input=texts[i], model="text-embedding-3-small").data[0].embedding
         text_embedding = text_embedding / (norm(text_embedding))

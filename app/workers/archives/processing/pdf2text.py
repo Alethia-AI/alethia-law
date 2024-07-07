@@ -12,7 +12,7 @@ class PDFProcessor:
     def __init__(self):
         self.parser = LlamaParse(
             api_key=os.environ.get("LLAMA_CLOUD_API_KEY"),
-            result_type="markdown",  # "markdown" and "text" are available
+            result_type="text",  # "markdown" and "text" are available
             verbose=True,
         )
 
@@ -24,8 +24,16 @@ class PDFProcessor:
         print("Processing file: ", path)
         documents = await self.parser.aload_data(path)
         print("Documents processed: ", len(documents))
+        text = ""
+        for doc in documents:
+            text += doc.text
+            text += "\n"
 
-        return documents
+        text_path = path.replace(".pdf", ".txt")
+        with open(text_path, "w") as f:
+            f.write(text)
+
+        return text_path
     
     async def process_directory(self, path: str):
         documents = []
@@ -37,16 +45,3 @@ class PDFProcessor:
 
     
 processor = PDFProcessor()
-
-"""
-if __name__ == "__main__":
-    filename = "sample.pdf"
-    api_key = os.environ.get("LLAMA_CLOUD_API_KEY")
-    documents = processor.process_file(filename)
-    for doc in documents:
-        doc_ = Doc(
-            api_key=api_key,
-            title=filename.split("/")[-1].split(".")[0] + "_" + doc["id_"],
-        )
-        res = create_doc(doc, doc["text"])
-"""

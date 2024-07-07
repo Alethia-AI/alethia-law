@@ -13,6 +13,7 @@ pydantic[email]
 # Embeddings:
 openai
 numpy
+anthropic
 
 # Search:
 redis
