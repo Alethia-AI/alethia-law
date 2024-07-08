@@ -4,7 +4,7 @@ from fastapi import FastAPI, Depends, HTTPException, status
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
 
-from .routers.archives import docs, cases
+from .routers.archives import cases
 from .routers import search
 
 app = FastAPI()
@@ -12,7 +12,6 @@ app = FastAPI()
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
 
 
-app.include_router(docs.router)
 app.include_router(cases.router)
 app.include_router(search.router)
 

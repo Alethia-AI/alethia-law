@@ -3,11 +3,11 @@ import os
 
 from typing import List
 
-from ...schema.search import ResponseSchema, ResultSchema, queryMetadata
+from ...schema.search import ResponseSchema, ResultSchema, addQuery
 
 co = cohere.AsyncClient(os.environ.get("COHERE_API_KEY"))
 
-async def rerank(queryMetadata_: queryMetadata, responses: ResponseSchema) -> ResponseSchema:
+async def rerank(query: addQuery, responses: ResponseSchema) -> ResponseSchema:
     if responses is None:
         print("No results to rerank")
         return responses
@@ -18,7 +18,7 @@ async def rerank(queryMetadata_: queryMetadata, responses: ResponseSchema) -> Re
 
     reranked_response = await co.rerank(
         model="rerank-english-v3.0",
-        query= queryMetadata_.query,
+        query= query.query,
         documents=documents_,
         rank_fields=["text", "title"],
         return_documents=False
@@ -31,7 +31,6 @@ async def rerank(queryMetadata_: queryMetadata, responses: ResponseSchema) -> Re
         original_result: ResultSchema = original_results_[rank]
         original_result.relevance_score = result.relevance_score
         original_result.rank = i
-        original_result.query_id = queryMetadata_.query_id
         reranked_results.append(original_result)
 
     responses.results = reranked_results

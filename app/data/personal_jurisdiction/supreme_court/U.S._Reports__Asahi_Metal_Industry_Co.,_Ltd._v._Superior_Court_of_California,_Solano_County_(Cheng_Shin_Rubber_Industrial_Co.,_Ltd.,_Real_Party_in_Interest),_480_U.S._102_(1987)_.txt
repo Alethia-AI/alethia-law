@@ -1,0 +1,976 @@
+102                               OCTOBER       TERM,      1986
+
+
+                                         Syllabus                               480 U.   S.
+
+
+  ASAHI        METAL         INDUSTRY            CO.,     LTD.     v.  SUPERIOR
+        COURT        OF    CALIFORNIA,               SOLANO          COUNTY
+         (CHENG          SHIN RUBBER                INDUSTRIAL              CO.,
+                LTD.,     REAL       PARTY         IN    INTEREST)
+
+
+     CERTIORARI          TO  THE     SUPREME        COURT      OF   CALIFORNIA
+  No.   85-693.     Argued November         5,  1986-Decided       February    24,  1987
+Petitioner   manufactures      tire  valve  assemblies    in Japan    and   sells them   to
+   several tire  manufacturers,      including   Cheng Shin     Rubber    Industrial   Co.
+   (Cheng    Shin).    The sales    to  Cheng    Shin,   which   amounted to      at  least
+   100,000   assemblies    annually   from   1978 to   1982,  took place   in Taiwan,    to
+   which   the  assemblies were      shipped    from Japan.       Cheng    Shin   incorpo-
+   rates  the  assemblies into    its finished   tires, which   it sells throughout the
+   world,   including   the  United    States,   where   20  percent    of its sales  take
+   place  in California.     Affidavits   indicated   that petitioner    was  aware    that
+   tires incorporating its      assemblies    would    end  up   in California,   but,   on
+   the  other hand,    that  it never   contemplated     that its  sales  to Cheng    Shin
+   in Taiwan    would   subject it   to lawsuits    in California.     Nevertheless,     in
+   1979,  a  product   liability suit  was   brought    in California    Superior    Court
+   arising  from a motorcycle       accident allegedly     caused by    defects  in  a tire
+   manufactured      by Cheng Shin,     which   in turn filed a cross-complaint seek-
+   ing indemnification     from   petitioner.    Although     the  main   suit was even-
+   tually  settled   and   dismissed,    the Superior      Court    denied   petitioner's
+   motion   to quash   the summons      issued against it.     The State    Court   of Ap-
+   peal  then ordered    that the summons       be  quashed,   but   the State   Supreme
+   Court   reversed,    finding   that  petitioner's    intentional   act  of placing    its
+   assemblies    into  the stream     of commerce      by  delivering    them   to  Cheng
+   Shin  in  Taiwan,    coupled   with   its awareness      that  some of    them   would
+   eventually   reach   California,   were   sufficient  to support    state  court juris-
+   diction under    the  Due   Process   Clause.
+Held: The judgment        is reversed,    and  the  case  is remanded.
+39  Cal. 3d  35,  702  P. 2d  543,  reversed    and  remanded.
+     JUSTICE     O'CONNOR,      delivered   the  opinion   of the Court     as to  Parts  I
+   and  II-B,  concluding    that  the state   court's  exercise   of personal jurisdic-
+   tion over   petitioner would     be unreasonable      and  unfair  in violation of the
+   Due   Process   Clause.     Pp.  113-116.
+        (a)  The  burden    imposed on     petitioner   by the  exercise   of state court
+  jurisdiction   would be    severe,   since  petitioner   would be required      not only
+   to traverse   the distance   between Japan and       California, but also to    submit
+               ASAHI            METAL              INDUSTRY                    CO.      v.   SUPERIOR                   COURT                     103
+
+
+102                                                                 Syllabus
+     its   dispute          with       Cheng         Shin       to    a   foreign         judicial        system.              Such       unique
+     burdens           should         have       significant           weight national in    assessing           the     reasonableness
+     of   extending personal                      jurisdiction             over                         borders.              Pp.      113-114.
+              (b)    The      interests           of   Cheng Shin               and      the     forum State              in the       exercise
+     of jurisdiction               over      petitioner            would        be     slight,       and would              be    insufficient
+     to   justify is whether the  heavy        burdens            placed        on     petitioner.               The       only      surviving
+     question                                  a Japanese             corporation               should        indemnify             a Taiwan-
+     ese     corporation              on    the     bases of a           sale     made         in   Taiwan          and      a shipment              of
+     goods         from       Japan          to    Taiwan. Cheng The Shin to do facts                 not      demonstrate                that       it
+     would        be    more        convenient              for                                  litigate        its    claim in         Califor-
+     nia     rather        than       in    Taiwan          or Japan, California while        California's             interests          are      di-
+     minished           by Cheng Shin's                     lack of        a                        residence            and by         the      fact
+     that      the     dispute          is primarily              about       indemnity              rather         than      the     safety         of
+     consumers.                 While         the possibility               of being          sued      in California              might         cre-
+     ate     an    additional           deterrent            to    petitioner's             manufacture                of unsafe          assem-
+     blies,      the  Shin, same      effect       would         result       from        pressures            placed state petitioneron
+     by    Cheng                      whose California                   sales      would         subject itto                         tort     law.
+     Pp.      114-115.
+              (c)    The       procedural             and      substantive               policies assertionother of        nations         whose
+
+
+                                                                                                                 of jurisdiction               over
+     interests          are affected by                 the forum             State's
+
+
+                                                                                                                 great       care       must        be
+     an    alien      defendant             must        be     taken        into account, and
+     exercised when                  considering personal jurisdiction                                  in the international case,con-
+     text.          Although             other        nations'         interests            will     differ       from        case to
+     those       interests,            as   well      as    the Federal               Government's                  interest         in its       for-
+     eign      relations           policies,         will      always         be     best       served         by     a   careful         inquiry
+     into the reasonableness                          of the particular                 assertion           of jurisdiction,               and      an
+     unwillingness                 to    find an         alien       defendant's              serious         burdens            outweighed
+     where,          as    here,        the      interests           of   the      plaintiff         and      the      forum         State        are
+     minimal.              P.     115.
+          JUSTICE           O'CONNOR,               joined by THE                 CHIEF JUSTICE,                    JUSTICE           POWELL,
+     and      JUSTICE           SCALIA,           concluded            in   Parts        II-A       and      III    that,      even assum-
+     ing,     arguendo, that                   petitioner           was      aware          that     some        of the       assemblies              it
+     sold      to    Cheng          Shin would               be    incorporated                into     tires       sold      in render California,
+     the      facts       do      not     establish            minimum              contacts consistent with fair to play and sufficient           the
+      State's exercise as required of personal jurisdiction Process                                                                             sub-
+      stantial justice                                       by the        Due                       Clause.             Since       petitioner
+      does      not     do    business,           have        an    office,      agents,          employees,              or property, or
+      advertise          or solicit business                   in   California,           and      since      it did      not create,            con-
+      trol,     or employ            the distribution system                         that      brought          its assemblies                to, or
+      design        them         in   anticipation              of   sales       in,    California,            it   did     not      engage          in
+      any action            to    purposely            avail      itself      of the       California           market.              The       "sub-
+      stantial        connection"              between            a defendant              and     the     forum         State       necessary
+      for    a finding          of minimum               contacts           must derive               from       an action           purposely
+      directed          toward the              forum         State,        and      the      mere placement                    of   a   product
+                                                  OCTOBER                 TERM,            1986
+
+
+                                                                   Syllabus                                                       480     U.     S.
+     into     the stream              of commerce is                   not     such an           act,     even       if done         with       an
+     awareness             that      the stream             will sweep             the     product         into the         forum         State
+     absent        additional            conduct          indicating           an intent           to   serve        the     forum         state
+     market.             Pp.      108-113,           116.
+         JUSTICE            BRENNAN,               joined        by    JUSTICE            WHITE,          JUSTICE            MARSHALL,
+     and      JUSTICE            BLACKMUN,                 agreed          with       the Court's              conclusion             in    Part
+     II-B that           the     exercise          of jurisdiction              over       petitioner          would not            comport
+     with      "fair      play and           substantial            justice," but             disagreed            with       Part II-A's
+     interpretation                of   the      stream-of-commerce                        theory,         and      with       the     conclu-
+     sion     that      petitioner           did     not     purposely            avail      itself      of the       California           mar-
+     ket.        As long as a defendant is aware                                that the         final product is being mar-
+     keted        in   the      forum         State,       jurisdiction             premised            on    the      placement             of    a
+     product into              the stream             of commerce               is   consistent with the                    Due      Process
+     Clause,         and      no     showing           of additional conduct                      is   required.              Here,        even
+     though         petitioner           did     not     design or control                  the distribution                 system         that
+     carried        its assemblies               into California,               its regular           and extensive sales                    to    a
+     manufacturer                 it  knew was              making          regular          sales      of   the      final     product          in
+     California           were       sufficient         to establish            minimum             contacts         with       California.
+     Pp.     116-121.
+         JUSTICE            STEVENS,              joined        by     JUSTICE            WHITE           and      JUSTICE            BLACK-
+     MUN,        agreed          that reasons the  California            Supreme II-B Court's  the Court's should judgment                      be
+     reversed            for    the                        stated        in    Part                  of                              opinion,
+     but     did     not     join     Part       II-A,       for     the     reasons          that     (1) the Court's                holding
+     that      the     State's         exercise          of    jurisdiction             over      petitioner            would         be    "un-
+     reasonable             and     unfair"         alone       requires          reversal,          and      renders          any exami-
+     nation       of minimum               contacts unnecessary;                        and     (2) even assuming                    that the
+     "purposeful availment"                          test     should         be    formulated             here,       Part       II-A       mis-
+     applies         it   to    the      facts       of    this      case      since,        in    its    dealings           with       Cheng
+     Shin,       petitioner           has      arguably           engaged            in   a   higher quantum                    of   conduct
+     than       the     mere         placement             of    a   product           into     the stream               of commerce.
+     Pp.     121-122.
+
+
+     O'CONNOR,               J.,    announced             the judgment                 of    the    Court        and      delivered           the
+opinion         for     a   unanimous              Court        with       respect         to    Part       I,   the     opinion         of the
+Court        with       respect         to    Part      II-B,        in   which        REHNQUIST,                 C.    J.,    and     BREN-
+NAN,         WHITE,             MARSHALL,                  BLACKMUN,                   POWELL,              and       STEVENS,               JJ.,
+joined,        and      an    opinion        with       respect to           Parts       II-A       and     III,     in which          REHN-
+QUIST,         C.    J.,    and      POWELL             and      SCALIA,          JJ.,     joined.            BRENNAN,               J.,    filed
+an     opinion         concurring              in   part       and      concurring             in   the      judgment,              in   which
+WHITE,           MARSHALL,                and      BLACKMUN,                JJ., joined,            post, p.        116.         STEVENS,
+J.,    filed     an opinion            concurring             in    part      and      concurring            in    the     judgment, in
+which        WHITE           and      BLACKMUN,                JJ.,     joined,        post,      p.    121.
+          ASAHI      METAL       INDUSTRY          CO. v. SUPERIOR            COURT            105
+
+
+102                                 Opinion    of the Court
+    Graydon S.         Staringargued             the cause for petitioner.                 With
+him    on the      briefs    was     Richard D. Hoffman.
+   Ronald        R.    Haven argued             the    cause     and     filed   a   brief    for
+respondent. *
+   JUSTICE        O'CONNOR           announced         the judgment            of the     Court
+
+
+                                                                    the    Court      with    re-
+and    delivered        the    unanimous          opinion of
+spect to Part whichthe opinion I,            of the Court JUSTICE with    respect      toPart
+II-B,      in              THE       CHIEF       JUSTICE,                        BRENNAN,
+JUSTICE        WHITE,        JUSTICE        MARSHALL,           JUSTICE        BLACKMUN,
+JUSTICE       POWELL,         and JUSTICE STEVENS                  join, and       an   opinion
+with respect         to Parts II-A and             III,   in which THE          CHIEF JUS-
+TICE,     JUSTICE        POWELL,         and JUSTICE           SCALIA      join.
+    This    case    presents       the    question       whether the          mere aware-
+ness on the part of a foreign                 defendant        that the components it
+manufactured,            sold,    and    delivered outside the              United       States
+would reach          the forum        State     in  the stream         ofcommerce           con-
+stitutes      "minimum          contacts"       between        the   defendant         and    the
+forum      State     such     that    the   exercise       of jurisdiction          "does     not
+offend      'traditional        notions      of   fair   play     and     substantial        jus-
+tice."'       International Shoe Millikenv. v. Washington, U. Co.                  326 S. U. 457,S.
+310,    316    (1945),      quoting                           Meyer,       311
+463    (1940).                                   I
+SolanoSeptember California, On 23,    1978, Gary Interstate lost  on     Highway          80    in
+
+
+            County,                                    Zurcher               control      of his
+Honda       motorcycle         and    collided     with     a  tractor.        Zurcher       was
+severely        injured,       and     his   passenger          and     wife,     Ruth      Ann
+Moreno,         was     killed.       In September              1979,     Zurcher        filed   a
+product       liability     action    in   the   Superior        Court      of the     State    of
+   *Briefs    of amici curiae urging          reversal    were    filed  for Alcan     Aluminio
+Do Brasil,     S.  A. by Lawrence A.         SalibraII; for the American Chamber                 of
+Commerce in the United Kingdom et al. by Douglas E. Rosenthal, Donald
+I.  Baker, and       AndreasF.        Lowenfeld;      and   for  Cassiar    Mining     Corp.    by
+David Booth Beers and            Wendy S.     White.
+   George E. Murphy filed a brief for the California Manufacturers                      Associa-
+tion   as amicus curiae urging affirmance.
+                          OCTOBER      TERM,    1986
+
+
+                            Opinion of the  Court                    480 U.  S.
+California   in  and  for  the  County     of Solano.     Zurcher     alleged
+that the   1978 accident     was   caused    by a sudden     loss  of air  and
+
+
+                 in  the  rear   tire  of the   motorcycle,     and   alleged
+an explosion
+that   the  motorcycle     tire,  tube,   and   sealant    were   defective.
+Zurcher's     complaint    named,     inter alia, Cheng       Shin   Rubber
+Industrial    Co.,   Ltd.   (Cheng    Shin),   the  Taiwanese      manufac-
+turer   of the tube.     Cheng    Shin in turn    filed  a cross-complaint
+seeking indemnification from its           codefendants     and from     peti-
+tioner,  Asahi Metal      Industry    Co.,   Ltd.  (Asahi),   the manufac-
+turer   of the  tube's valve assembly.          Zurcher's    claims against
+Cheng Shin and the other defendants were                eventually    settled
+and   dismissed, leaving        only  Cheng Shin's       indemnity      action
+against   Asahi.
+   California's long-arm       statute   authorizes     the exercise    of ju-
+risdiction   "on any basis not inconsistent         with the Constitution
+of this  state or   of the   United    States."     Cal.   Civ.  Proc.   Code
+Ann.    §410.10    (West    1973).     Asahi    moved     to quash     Cheng
+Shin's   service   of summons,      arguing    the State   could   not exert
+jurisdiction    over it consistent with      the Due Process       Clause    of
+the  Fourteenth      Amendment.
+   In  relation    to the   motion,    the   following    information     was
+submitted     by   Asahi and      Cheng    Shin.     Asahi    is a Japanese
+corporation.       It manufactures      tire  valve   assemblies    in Japan
+and sells   the assemblies      to Cheng     Shin,   and  to  several   other
+tire  manufacturers,       for   use as components         in  finished    tire
+tubes.     Asahi's    sales   to Cheng     Shin   took   place   in  Taiwan.
+The    shipments     from Asahi      to  Cheng     Shin   were    sent   from
+Japan to Taiwan.          Cheng Shin bought        and   incorporated     into
+its tire  tubes   150,000   Asahi   valve   assemblies in     1978;   500,000
+in  1979;  500,000 in    1980;  100,000    in 1981;  and   100,000   in  1982.
+Sales   to Cheng     Shin  accounted     for  1.24  percent   of Asahi's in-
+come    in 1981   and   0.44  percent    in 1982.     Cheng    Shin   alleged
+that   approximately       20   percent     of  its  sales  in  the   United
+States   are  in California.      Cheng Shin purchases         valve assem-
+blies   from   other   suppliers    as  well,   and   sells  finished   tubes
+throughout      the world.
+          ASAHI      METAL       INDUSTRY          CO.   v. SUPERIOR          COURT           107
+
+
+ 102                                Opinion    of the Court
+    In   1983    an   attorney       for Cheng        Shin    conducted         an   informal
+examination          of the     valve     stems      of the    tire   tubes     sold    in   one
+cycle     store    in Solano      County.          The    attorney       declared      that    of
+the    approximately           115    tire   tubes     in   the   store,     97   were     pur-
+portedly       manufactured           in   Japan     or Taiwan, circledand     of those      97,
+21   valve     stems were          marked with the                         letter    "A",    ap-
+parently       Asahi's      trademark.            Of   the    21   Asahi valve          stems,
+ 12 were      incorporated          into Cheng        Shin    tire   tubes.        The store
+contained        41   other of Cheng  otherShin      tubes     that    incorporated Declarationthe
+valve      assemblies                         manufacturers.                                   of
+Kenneth        B.    Shepard       in   Opposition        to  Motion       to  Quash Sub-
+poena, App.          to   Brief for      Respondent          5-6.       An    affidavit     of a
+manager of Cheng               Shin whose        duties     included the purchasing
+of   component          parts     stated:     "'In     discussions        with     Asahi     re-
+garding       the   purchase        of valve      stem      assemblies        the   fact    that
+my     Company          sells   tubes      throughout         the    world     and     specifi-
+cally    the   United       States     has been        discussed.          I  am    informed
+and    believe      that    Asahi was         fully    aware      that    valve     stem     as-
+semblies        sold    to   my    Company and             to   others      would      end    up
+throughout         the United         States and       in California."'           39   Cal.   3d
+35, 48, n.      4,  702 P.     2d 543,     549-550,       n.  4 (1985).        An    affidavit
+of the      president       of Asahi,       on   the other        hand,      declared       that
+Asahi      "'has    never      contemplated           that    its  limited     sales    of tire
+valves      to  Cheng       Shin    in  Taiwan       would      subject      it to   lawsuits
+in   California."'          Ibid.      The record         does    not   include      any    con-
+tract    between        Cheng       Shin    and Asahi.           Tr.    of Oral     Arg.     24.
+    Primarily        on   the basis of the         above      information,         the   Supe-
+rior     Court      denied      the    motion       to   quash      summons,          stating:
+"Asahi      obviously does           business      on   an   international         scale.      It
+is not unreasonable             that    they defend         claims of defect          in their
+product       on an international           scale."       Order      Denying Motion            to
+Quash       Summons,         Zurcher v. Dunlop Tire & Rubber Co.,                           No.
+76180      (Super.      Ct.,   Solano      County,       Cal.,    Apr.     20,   1983).
+    The     Court      of   Appeal       of  the    State     of   California       issued      a
+peremptory          writ of mandate commanding the Superior Court
+to quash        service     of summons.             The     court    concluded        that    "it
+                                                                                                                                               OCTOBER                                        TERM,                              1986
+
+
+                                                                                                     Opinion
+would be unreasonable to require
+nia                  solely                           on              the                   basis                         of
+that
+     wouldthe                                    product over the world including into                                which
+                              be                sold                   all
+to Pet.                                for               Cert.                         B5-B6.
+           The                    Supreme                                         Court of the
+discharged                                               the                 writ                      issued
+3d               35,                  702                  P.              2d                543                   (1985).
+has no                             offices,                             property or agents in California.
+
+
+of O'CONNOR,                                               J.                                                                     480 U.                         S.
+                                 Asahi to respond                                                                      in Califor-
+ ultimately                                              realized                                     foreseeability
+
+                  its               component                                                   was                      embodied
+                                                                             California."                                                        App.
+
+           State of California                                                                          reversed                                        and
+  by the                              Court                            of Appeal.                                                     39             Cal.
+                          The                     court                           observed:                                             "Asahi
+                                                                                                             It solicits no
+
+
+
+
+                                                                                                                                                                                has                 made                          no              direct                            sales                       [in              Cali-
+                                          business                                      in Id., California and 2d,
+                                          fornia]."                                                                at 48,                         702 P.                                           at 549.                                    Moreover,                                              "Asahi did
+                                          not                  design                             or            control                                the                 system                                of distribution                                                            that P. 2d, carried
+
+
+                                                                                                                                                                                                                                                                                                                                               at
+                                          its valve                                    assemblies into California."                                                                                                                    Id.,                  at 49, 702
+                                          549.                            Nevertheless,                                                            the                 court                       found                          the                 exercise                                    of jurisdic-
+                                          tion over Asahi to be consistent with the Due Process                                                                                                                                                                                                                      Clause.
+                                           It concluded                                                     that                     Asahi knew                                                   that                    some of the                                                   valve                          assem-
+                                          blies
+                                           sold in saleCalifornia, sold to Cheng                                                           Shin would be incorporated indirectly tubes
+                                                                                                                                           and                   that                    Asahi                            benefited                                                into tire                                     from
+                                          the                                            in            California                                             of            products                                       incorporating                                                           its                compo-
+                                           nents.                                    The                    court                         considered                                             Asahi's                                intentional                                              act                 of plac-
+                                          ing                 its             components                                                    into                   the stream                                              of commerce-that                                                                                  is,            by
+                                           deliveringthe components to Cheng Shin in Taiwan -coupled
+
+
+                                           with                       Asahi's                                awareness                                               that                    some                         of the                            components                                                     would
+                                           eventually for find                                                            their                         way                     into                   California,                                               sufficient                                       to             form
+                                           the                 basis                                          state                        court                        jurisdiction                                                under                             the                 Due                     Process
+                                           Clause.granted We                                                             certiorari,                                              475                   U.               S.              1044                         (1986),                               and                      now
+                                           reverse.
+                                                                                                                                                                                             II
+                                                                                                                                                                                             A
+                                                      The  the power of a state court to exert personal jurisdictionDue Process                     Clause of                                           the                  Fourteenth                                                    Amendment
+                                           limits
+                                           over                       a         nonresident                                                    defendant.                                                     "[T]he                              constitutional                                                           touch-
+                                           stone"                              of the determination                                                                                     whether                                      an               exercise                                    of personal
+                                          jurisdiction                                                 comports                                         with                     due                 process                                 "remains whether                                                                            the
+                                           defendant purposefully established                                                                                                                                             'minimum                                             contacts' in                                               the
+          ASAHI METAL            INDUSTRY          CO. v. SUPERIOR            COURT           109
+
+
+102                              Opinion of O'CONNOR,          J.
+forum      State."        Burger King Corp. v.                 Rudzewicz,          471    U.   S.
+462, 474      (1985),     quoting       InternationalShoe               Co.    v.  Washing-
+ton,    326    U.   S.,   at   316.       Most     recently       we    have     reaffirmed
+the    oft-quoted        reasoning         of  Hanson v.          Denckla,        357     U.   S.
+235, 253      (1958), which that the minimum      contacts       must     have     a  basis    in
+"some      act   by                     defendant purposefully                  avails    itself
+of   the    privilege       of   conducting          activities      within      the     forum
+State,     thus invoking the benefits                and protections            of its laws."
+Burger King, 471             U.    S.,  at 475.        "Jurisdiction         is proper...
+where the contacts proximately                     result     from actions by the de-
+fendant       himself that          create      a  'substantial         connection'        with
+the    forum      State."         Ibid.,     quoting       McGee        v.  International
+Life    Insurance Co.,            355    U.    S. 220,      223    (1957)     (emphasis        in
+original).
+   Applying         the    principle        that    minimum          contacts        must      be
+based      on   an   act   of   the   defendant,         the    Court     in   World-Wide
+Volkswagen          Corp. v. Woodson,              444 U.      S.286      (1980),    rejected
+the assertion         that    a consumer's unilateral               act   of bringing        the
+defendant's product              into the forum          State was a sufficient con-
+stitutional      basis for      personal jurisdiction              over the defendant.
+It had     been     argued      in   World-Wide          Volkswagen           that    because
+an automobile            retailer      and    its   wholesale        distributor         sold    a
+product       mobile      by    design      and     purpose,        they     could     foresee
+being     haled     into    court    in   the   distant States          into    which      their
+customers might             drive.        The    Court      rejected       this   concept      of
+foreseeability         as an      insufficient       basis     for   jurisdiction        under
+the    Due     Process      Clause.         Id.,   at   295-296.          The     Court      dis-
+claimed,       however,          the    idea     that    "foreseeability           is   wholly
+irrelevant"        to   personal        jurisdiction,         concluding         that    "[t]he
+forum State         does     not exceed        its  powers       under the        Due     Proc-
+ess   Clause      if it   asserts     personal       jurisdiction        over     a  corpora-
+tion    that   delivers       its  products        into   the stream          of commerce
+with    the expectation           that    they will      be   purchased         by   consum-
+ers   in   the forum        State."        Id.,   at 297-298         (citation     omitted).
+The     Court     reasoned:
+                                                                OCTOBER TERM,                                        1986
+
+
+                                                                Opinion               of O'CONNOR,                         J.                                           480 U.              S.
+                     "When                   a     corporation 'purposefully                                                           avails forum State,'itself             of the
+              privilege                     of conducting activities                                                  within the
+              Hanson v.                          Denckla, 357                                U.         S.       [235,]               253          [(1958)],                   it     has
+              clear notice
+              alleviate
+                        insurance,the thatit is subject to suit there,  and procuring
+                                                        risk of burdensome litigation                                                                  by          can act                 to
+                                                 passing                    the          expected                        costs             on to               customers,
+
+
+              or,        if the risks                       are too great,                               severing its connection with
+              the          State.                    Hence                 if the              sale of a product                                      of a manufac-
+              turer              or       distributor                          ...           is      not simply an                                 isolated                   occur-
+              rence,               but          arises                from the efforts of the manufacturer                                                                                 or
+              distributor                          to        serve,                 directly                    or       indirectly,                         the          market
+              for         its       product                   in       other States,                               it is          not unreasonable                                         to
+              subject                   it      to       suit          in        one           of those                     States                if its             allegedly
+              defective                       merchandise                               has           there               been             the           source of                       in-
+              jury            to its             owners or to others."                                                      Id.,           at 297.
+       In       World-Wide Volkswagen itself, the state court                                                                                                        sought to
+base            jurisdiction                           not on                any            act        of the defendant,                                        but           on       the
+foreseeable                           unilateral actions of the consumer.                                                                                Since              World-
+Wide                Volkswagen,                                lower                courts                have been                            confronted                          with
+cases in which the defendant                                                                acted             byplacing a product                                               in the
+stream
+fendant's product of               commerce, into the and forum State, but the defendant de-the     stream                   eventually                          swept                  did
+nothing                    else           to purposefully                                    avail            itself of the market                                             in      the
+forum State.                                   Some               courts have                           understood                            the          Due Process
+Clause, as                          interpreted                            in       World-Wide  Volkswagen,                                                             to       allow
+an         exercise                    of       personal                     jurisdiction                            to       be        based                on no                more
+than the
+of commerce. defendant's Other above-quotedunderstood in act courts of placing the product the the streamhave                                          in        Due             Proc-
+ess           Clause and                              the                                                         language                                  World-Wide
+ Volkswagen to require the action                                                                          of the defendant  mere to be more
+purposefully
+placing                   a product directed the stream in            at the forum  commerce.theofState than                                                                     act of
+       The             reasoning                         of       the  the Supreme                            Court                 of       California                        in      the
+present                    case             illustrates                                    former                  interpretation                                  of       World-
+ Wide               Volkswagen.                                     The             Supreme                        Court                 of       California held
+ that,              because                     the           stream                    of       commerce                           eventually                           brought
+                                                   ASAHI METAL                                   INDUSTRY                          CO. v. SUPERIOR                                     COURT                            ill
+
+
+ 102                                                          Opinion of O'CONNOR,                                       J.
+some               valves               Asahi               sold           Cheng                   Shin             into           California,
+awareness                        that its valves                               would                be       sold in California
+ficient to permit California                                                      to exercise jurisdiction
+consistent with                                 the requirements                                        of the Due                         Process
+The            Supreme                       Court                of California's                                 position was
+with            those courts                            that           have             held            that           mere foreseeability
+
+
+
+           Asahi's
+        was suf-
+over Asahi
+          Clause.
+  consistent
+                           or
+
+
+
+
+                               jurisdictionwas the
+                                                   awareness          if         a constitutionally defendant's                product sufficient made basis for personalits            way into                     the
+                                forum State while                                         still in the stream of commerce.                                                                        See  2dBean
+                                Dredging Corp. v.                                          Dredge Technology                                               Corp., 744                         F.                  1081
+                                (CA5               1984);             Hedrick v. Daiko Shoji Co.,                                                               715 F.                2d 1355                  (CA9
+                                1983).
+                                       Other courts,                                however,                        have             understood                            the          Due             Process
+                                Clause                  to       require                   something more into the forumthe than                                  that  State throughdefendant
+                               was aware                           of its product's                               entry
+                               the stream                           of commerce                              in order                   for         the State to                           exert juris-
+                                diction                over             the         defendant.                               In        the          present                   case,             for         exam-
+                               ple,          the          State              Court               of Appeal                        did          not read                    the          Due            Process
+                                Clause, as
+                                "mere foreseeability interpreted that by                                            World-Wide Volkswagen, theto forumallow
+                                                                                                                    the          product                     will          enter
+
+
+                               state [to]                    be enough                         by itself to establish jurisdiction over the
+                               distributor                           and           retailer."                           App. 727to F. Pet.  709 for (CA8 Cert. 1984), B5.                                               In
+                               Humble                       v.      Toyota                  Motor Co.,                                                  2d                                                              an
+                                injured car                            passenger brought                                              suit            against                  Arakawa                         Auto
+                                Body               Company,                           a     Japanese                        corporation                             that            manufactured
+                                car seats for Toyota.                                                 Arakawa                       did no business                                  in the United
+                                States;                 it     had           no         office,              affiliate,                   subsidiary,                          or       agent               in      the
+                                United                  States; Statesmanufactured  its it                                                       component                           parts              outside
+                               the          United                                        and          delivered                      them to Toyota                                     Motor                Com-
+                               pany              in Japan.                           The           Court inof Appeals, noted adopting  thatthe reason-
+                               ing          of the               District                  Court                        that            case,                                                although                     it
+                                "does               not          doubt                that            Arakawa                        could              have              foreseen                      that           its
+                               product                    would                find          its way                  into           the          United                 States,"                    it     would
+                               be        "manifestly                           unjust"                  to require                        Arakawa                       to defend                      itself in
+                               the           United                   States.                       Id.,          at       710-711,                       quoting                   578           F.         Supp.
+                                530, 533                     (ND             Iowa               1982).                    See           also           Hutson v.                         Fehr Bros.,
+                                         OCTOBER             TERM,         1986
+
+
+                                         Opinion       of O'CONNOR,            J.                          480 U.      S.
+Inc.,      584     F.    2d 833        (CA8        1978);       see generally              Max Daetwyler
+"stream
+       Corp. v.   R. Meyer,
+                   of    commerce" 762 F.             2d 290, 299 which(CA3               1985)       (collecting
+                                                 cases        in                  the       "manufacturers
+involved          had      made deliberate                   decisions          to market their prod-
+ucts in        the     forum         state").
+     We      now       find     this     latter       position          to   be     consonant             with      the
+requirements                 of due       process.             The      "substantial              connection,"
+Burger King, 471                    U.     S.,    at 475; McGee, 355 U.                        S.,   at 223,        be-
+tween          the     defendant             and       the     forum          State       necessary             for     a
+finding of minimum                      contacts          must come             about by an action of
+the defendant purposefully directed toward the forum State.
+Burger King,                  supra,          at    476;      Keeton          v.    Hustler Magazine,
+Inc.,      465      U.     S.   770, 774          (1984).          The      placement             of a product
+into      the stream             of commerce,                 without          more,        is   not an        act of
+the defendant                purposefully               directed          toward         the forum            State.
+Additional            conduct          of the defendant                  may indicate              an intent or
+purpose           to serve         the market in the forum                          State, for example,
+designing  in the forum State,
+vertising            the product              for the market establishing channels in the forum for provid-State,    ad-
+ing     regular         advice         to    customers            in    the     forum         State,       or mar-
+keting         the     product          through          a   distributor             who      has      agreed to
+ serve       as    the     sales      agent        in   the forum             State.           But      a defend-
+ ant's      awareness              that      the      stream          of    commerce              may        or    will
+ sweep        the product              into the forum                 State does            not convert             the
+mere         act    of placing            the     product          into     the stream               into     an     act
+purposefully               directed          toward          the     forum        State.               -
+     Assuming,               arguendo, that                   respondents               have        established
+Asahi's awareness                     that some            of the valves sold to Cheng                            Shin
+would          be     incorporated                into       tire      tubes        sold       in    California,
+respondents                have       not     demonstrated                  any      action        by    Asahi         to
+purposefully               avail     itself of the           California market.                      Asahi does
+not      do    business          in    California.               It   has      no    office,       agents,         em-
+ployees,          or    property           in    California.              It    does not          advertise           or
+ otherwise            solicit       business          in    California.                It   did     not     create,
+ control,         or    employ          the distribution                  system          that      brought          its
+ valves        to    California.              Cf. Hicks            v.    Kawasaki Heavy                      Indus-
+             ASAHI          METAL           INDUSTRY                CO.      v.  SUPERIOR               COURT                  113
+
+
+102                                             Opinion        of the     Court
+tries, 452            F.    Supp.          130     (MD        Pa.      1978).           There         is no       evidence
+that        Asahi         designed              its    product             in    anticipation                of sales           in
+California.                 Cf. Rockwell Agusta, InternationalCorp. v.                                     Costruzioni
+Aeronautiche Giovanni these                                              553       F.     Supp.         328       (ED        Pa.
+ 1982).           On      the      basis       of                 facts,        the     exertion            of    personal
+jurisdiction               over       Asahi         by     the      Superior Court                    of California *
+
+
+exceeds            the      limits       ofdue          process.
+                                                                 B
+     The        strictures             of     the      Due        Process            Clause           forbid         a    state
+court         to      exercise             personal             jurisdiction                over        Asahi           under
+circumstances                   that       would          offend         "'traditional                notions          Co.fair
+                                                                                                                              of
+play        and       substantial               justice."'                InternationalShoe                                      v.
+ Washington,                  326       U.     S.,     at    316,       quoting            Milliken            v.    Meyer,
+ 311     U.      S.,    at    463.
+     We        have         previously              explained              that        the determination                         of
+ the
+      willreasonableness                   of the        exercise           of jurisdiction                in    each courtcase
+           depend            on     an      evaluation               of defendant, several   factors. interests A
+ must        consider            the      burden           on     the                              the                           of
+ the     forum          State,         and       the      plaintiff's           interest           in    obtaining            re-
+ lief.        It    must also             weigh         in its       determination                   "the      interstate
+judicial
+ resolution system's of        controversies;in and interest         obtaining the shared the interest efficientmost   of     the
+ several          States          in    furthering               fundamental                  substantive                social
+ policies."               World-Wide                 Volkswagen,                   444      U.     S.,     at    292      (cita-
+ tions omitted).
+
+
+     *We      have      no    occasion        here     to   determine          whether          Congress          could,      con-
+ sistent      with      the    Due      Process        Clause       of   the     Fifth      Amendment,              authorize
+ federal       court       personal        jurisdiction           over      alien  ondefendants             based        on    the
+ aggregate           of nationalcontacts,                  rather       than           the     contacts        between         the
+ defendant          and     the    State      in   which 2d290, the   federal       court sits.           See     Max      Daet-
+ wyler Corp. v. R.                Meyer,        762 F.                    293-295 (CA3               1985);     DeJames v.
+ Magnificence Carriers,Inc., 654                            F. 2d 280, 283 (CA3                 1981);      see also Born,
+  Reflections         on Judicial Jurisdiction                  in   International           Cases,       to   be published
+ in   17 Ga.       J.   Int'l    & Comp. Va. L.         1 (1987);        Lilly,     Jurisdiction          Over      Domestic
+ and Alien          Defendants,            69          L.    Rev. 85,        127-145        (1983).
+                                                    OCTOBER                  TERM,              1986
+
+
+                                                         Opinion          of the        Court                                           480 U.          S.
+       A     consideration                      of these              factors in                the present case                           clearly
+ reveals             the        unreasonableness                              of the           assertion                of jurisdiction
+ over Asahi,                    even          apart          from the question                              of the placement                           of
+ goods           in     the       stream             of commerce.
+       Certainly Asahithe  has burden commanded on                      the        defendant                  in     this        case         is     se-
+ vere.                                        been                                          by the            Supreme                  Court           of
+ California                 not only to in Japan traverse                        the       distance               between                 Asahi's
+ headquarters                                                and Solano, the       Superior                Court            of California
+in      and        for       the       County               of                          but        also        to     submit              its      dis-
+ pute
+ The unique Cheng with                         Shin to placeda upon one nation's foreign                           judicial             system.
+                               burdens                                                        who must defend                             oneself
+in      a    foreign              legal          system              should             have           significant                 weight              in
+ assessing                 the        reasonableness                          of      stretching                  the        long         arm          of
+ personal  minimum When jurisdiction contacts over                   national have    been borders.established,                     often           the
+ interests               of the plaintiff and                           the forum in the exercise                                       of juris-
+ diction            will        justify            even          the        serious              burdens                 placed            on       the
+ alien        defendant.                       In the present                        case,         however,                 the interests
+ of the          plaintiff and the forum in California's                                                       assertion of juris-
+ diction over Asahi                              are       slight.              All      that remains                      is    a claim             for
+indemnification                           asserted                by Cheng                     Shin,           a    Tawainese                     cor-
+poration,                 against              Asahi.                 The         transaction                    on      which            the        in-
+demnification                        claim           is     based took                     place in                Taiwan;                Asahi's
+components                        were           shipped                from          Japan             to      Taiwan.                     Cheng
+ Shin has               not demonstrated                              that it is more convenient                                         for it to
+litigate             its      indemnification                          claim          against              Asahi            in     California
+rather             than in            Taiwan               or Japan.
+       Because legitimateplaintiff is in not the                               a California                    resident,                 Califor-
+nia's                                    interests                      the dispute                   have          considerably                     di-
+minished.                      The        Supreme                 Court            of California                    argued              that the
+ State          had        an      interest              in    "protecting                    its     consumers by                          ensur-
+ing that              foreign manufacturers                                     comply              with the state's                        safety
+standards."                        39      Cal.        3d,      at 49, 702                 P.     2d,       at 550.               The         State
+ Supreme                 Court's              definition               of California's                       interest,              however,
+was          overly             broad.                 The          dispute              between                 Cheng              Shin           and
+Asahi             is    primarily                 about            indemnification                          rather             than         safety
+          ASAHI       METAL       INDUSTRY          CO. v. SUPERIOR             COURT            115
+
+
+ 102                                 Opinion of the      Court
+standards.            Moreover,         it is  not at      all  clear    at this     point that
+ California       law should          govern       the    question       whether         a  Japa-
+nese     corporation          should      indemnify         a  Taiwanese          corporation
+ on the basis        of a sale     made in Taiwan             and a shipment of goods
+from Japan to Taiwan.                   PhillipsPetroleum Co. v. Shutts, 472
+ U.   S.   797,    821-822       (1985);     Allstate Insurance Co.                  v.  Hague,
+449  intoU.  S.  302,    312-313  court(1981). result The of possibility of being           haled
+         a  California                  as   a                   an    accident       involving
+Asahi's      components           undoubtedly           creates      an   additional       deter-
+rent    to the manufacture               of unsafe       components;          however,        sim-
+ilar   pressures will          be placed       on   Asahi by the purchasers                  of its
+ components as             long    as   those     who      use    Asahi      components           in
+their final      products,        and    sell those       products in        California,        are
+ subject     to   the application           of California        tort    law.
+    World-Wide            Volkswagen           also     admonished           courts      to   take
+into consideration             the interests         of the "several          States,"      in ad-
+dition     to the forum         State,     in the efficient judicial             resolution       of
+the dispute         and the       advancement           of substantive           policies.        In
+the    present       case,    this   advice      calls    for   a  court    to consider         the
+procedural          and    substantive          policies      of  other      nations whose
+interests       are    affected by         the   assertion        of jurisdiction          by   the
+ California       court.        The     procedural         and    substantive         interests
+ of  other      nations       in  a   state     court's assertion            of   jurisdiction
+ over     an   alien     defendant         will    differ     from case         to   case.        In
+ every     case,     however, those            interests,       as   well    as   the   Federal
+ Government's            interest      in its foreign        relations      policies,      will be
+ best    served       by   a   careful     inquiry       into    the    reasonableness of
+ the assertion         of jurisdiction         in the     particular       case,    and an      un-
+ willingness to          find the     serious burdens             on   an   alien    defendant
+ outweighed          by    minimal       interests       on   the    part    of the     plaintiff
+ or the    forum State.             "Great      care and       reserve      should      be exer-
+ cised when extending                our notions        of personal jurisdiction               into
+ the    international          field."        United States            v.   First National
+ City Bank,         379    U.   S.   378, 404      (1965)     (Harlan, J.,        dissenting).
+ See    Born,     Reflections        on Judicial Jurisdiction in                International
+ Cases,      to be    published        in  17 Ga.     J.   Int'l   & Comp.        L.   1 (1987).
+                                                                                                                                                       OCTOBER                                          TERM,                             1986
+
+
+                                                                                                                                                        Opinion                           of BRENNAN,                                              J.                                                      480 U.                   S.
+                                                               Considering the international context,                                                                                                                                                      the heavy burden                                                      on
+                                                   the  the forum State,
+                                                                         andalien                  defendant,                                              theand  exercise the                        slight  personal jurisdiction ofinterests                                     of the                plaintiffby a
+                                                    California                                         court                         over                       Asahi in                                     this                  instance                                  would                be             unrea-
+                                                    sonable and                                                  unfair.                                                                           III
+                                                               Because                                     the                  facts                        of            this                   case                      do              not establish                                          minimum
+                                                    contacts                                   such that the exercise                                                                                        of personal jurisdiction                                                                             is con-
+                                                    sistent with fair play and                                                                                                    substantial justice,                                                                         the judgment                                        of
+                                                   the                 Supreme                                        Court                            of California                                                    is reversed,                                                and      the                 case               is
+                                                   remanded                                             for               further                                 proceedings                                                    not inconsistent                                                    with                  this
+                                                    opinion.
+                                                                                                                                                                                                                                                                              It is so                   ordered.
+
+
+           JUSTICE                                      BRENNAN,                                                  with whom                                                 JUSTICE
+ MARSHALL,                                                    and JUSTICE BLACKMUN                                                                                                       join,
+ and                  concurring                                              in           the judgment.
+            I       do             not                 agree                          with the                                      interpretation
+ stream-of-commerce                                                                                        theory,                                    nor                    with ofthe
+Asahi                            did                 not "purposely                                                                  avail                      itself
+ket."                              Ante,                          at            112.                            I do                   agree,                             however, with the
+ conclusion in                                                    Part II-B that                                                             the exercise
+tion over Asahi in this case would                                                                                                                                      not comport
+ and                    substantial S. justice," 320International Shoe
+ington, 326                                                 U.                            310,                                         (1945).                                    This
+ cases                        in           which                            "minimum                                               requirements inherent
+ cept                      of             'fair                    play                       and                     substantial                                                justice'
+reasonableness                                                                 of            jurisdiction                                                  even                         [though]
+has                 purposefully                                                    engaged                                      in           forum activities."
+ Corp. v.                                   Rudzewicz,                                                 471                 U.               S.462,                              477-478
+fore                   join                   Parts                          I        and                   II-B                       of the                           Court's
+ separately                                            to explain                                           my                 disagreement with
+           Part                        II-A                        states                            that                      "a             defendant's awareness
+ stream                                of commerce                                                       may                      or            will                  sweep
+forum                              State                          does                       not                    convert                                   the                  mere
+product                                   into the                                 stream                                 into an                               act               purposefully
+
+
+                 WHITE,                                    JUSTICE
+           concurring                                               in           part
+
+     in           Part                      II-A of the
+                       conclusion                                                that
+the                     California                                            mar-
+                                                                 Court's
+   of personal jurisdic-
+                             with "fair play
+                                Co.                     v.             Wash-
+   is          one                  of those                                    rare
+                                              in             the                 con-
+                   .         .        .        defeat                               the
+                              the                    defendant
+                                      Burger King
+                   (1985). and there-I
+        opinion,                                                          write
+                       Part                       II-A.
+                                                            that                     the
+the                 product                                   into                   the
+          act                 of placing                                             the
+                                           directed                                    to-
+             ASAHI          METAL           INDUSTRY                CO.     v.   SUPERIOR               COURT                  117
+
+
+102                                         Opinion of BRENNAN,                     J.
+ward        the      forum          State."             Ante,         at     112.         Under           this      view,         a
+plaintiff          would           be      required            to     show          "[a]dditional                conduct"
+directed           toward the the defendant forum           before be finding consistentexercise the              theof ju-
+risdiction over                                                   to                                   with                Due
+Process            Clause.              Ibid.           I   see      no     need        for      such       a    showing,
+however.                 The       stream          of    commerce                refers        not to         unpredict-
+able       currents            or     eddies,          but       to    the      regular           and        anticipated
+flow       of    products             from        manufacture                   to    distribution                to     retail
+sale.          As long           as     a   participant               in this        process           is   aware          that
+the      final      product            is   being         marketed              in    the      forum          State,         the
+possibility            of a     lawsuit          there burden cannot          come as          a  there surprise. no Nor
+will     the      litigation           present           a                    for    which                      is          cor-
+responding                benefit.              A     defendant               who       has       placed         goods          in
+the stream               of commerce                  benefits          economically                 from        the retail
+sale       of the         final      product            in    the      forum          State,         and        indirectly
+benefits           from         the       State's          laws        that        regulate            and       facilitate
+commercial                 activity.               These           benefits           accrue           regardless               of
+whether             that        participant               directly           conducts             business             in    the
+forum that
+ward           State, State.engages or     Accordingly, in      additional  most       courts
+                                                                                              conduct and directed commen-to-
+tators        have        found that jurisdiction                          premised on the                    placement
+of a      product           into       the     stream           of    commerce                is   consistent              with
+the      Due       Process            Clause,          and      have        not      required            a   showing            of
+additional conduct.'
+
+
+    'See,      e.  g.,    Bean       Dredging Corp. v.                 Dredge Technology                   Corp.,        744    F.
+2d     1081     (CA5 1984);            Hedrick          v.   Daiko Shoji            Co.,     715     F.    2d     1355     (CA9
+1983);      Nelson        v.   Park Industries, Inc.,                   717     F.   2d    1120,     1126      (CA7       1983),
+cert.      denied,        465      U.    S. 1024         (1984);       Stabilisierungsfonds fur                       Wein       v.
+Kaiser Stuhl              Wine        Distributors Pty.                Ltd.,      207     U.    S.    App.       D. C.       375,
+378,     647     F.   2d    200,     203    (1981);       Poyner v.          Erma        Werke       Gmbh,         618     F.   2d
+ 1186,      1190-1191          (CA6),       cert.     denied,       449     U.    S.841       (1980);       cf. Fidelity &
+Casualty Co.              of New         York      v.   PhiladelphiaResins                    Corp.,       766     F.    2d   440
+(CA10 1985)             (endorsing stream-of-commerce                            theory       but finding          it inappli-
+cable
+      Eascoin instant        case), Inc., cert. 766 denied,  2d474  U.        S. 1082 1985)(1986); (notingMontalbano v.
+             Hand Tools,                               F.         737(CA2                                    potential         ap-
+
+
+plicability        of stream-of-commerce Currie,theory, Growth but remanding for further factual
+ findings).           See     generally                        The                      of   the     Long-Arm:             Eight
+                                                                                                               OCTOBER                             TERM,                     1986
+
+
+
+        The              endorsement
+ minority                         view                among
+wagen
+      a  marked Woodson, from U. v.     retreat
+ spondents                             [sought]
+rence                  and             whatever
+ fortuitous                            circumstance
+ in        New York to New
+ accident                          while                   passing
+ The              Court                   held                that
+ homa, while                                   to        some
+ ent            mobility                        of        the
+
+
+   Opinion                  of BRENNAN,                                J.                                                 480          U.        S.
+    in        Part                II-A                of        what appears                                        to         be          the
+          Federal Courts                                            of Appeals'                                 represents
+
+  444               the S. analysis 286                (1980). in               World-Wide In     that              case, Volks-"re-
+to       base jurisdiction                                             on         one,             isolated                      occur-
+     inferences                              can            be         drawn therefrom:                                                    the
+                    that             a       single                   Audi                 automobile,                                  sold
+          York                 residents,                              happened                             to        suffer                  an
+                    through                           Oklahoma."                                         Id.,               at Okla-295.
+         the             possibility                             of        an           accident                         in
+       extent                    foreseeable                                in        light              of        the inher-
+  automobile, was                                                not           enough                       to         establish
+
+
+
+
+                                      Years               of       Extended                       Jurisdiction                          in       Illinois,                1963           U.         Ill.       Law              Forum                 533,
+                                      546-560                    (approving                        and           tracing                development                              of       the         stream-of-commerce
+                                      theory);                   C.      Wright                    & A.             Miller,                Federal                  Practice                    and          Procedure                        § 1069,
+                                      pp.          259-261                     (1969)               (recommending                                    in       effect               a     stream-of-commerce                                               ap-
+                                      proach);                 Von           Mehren                   & Trautman,                            Jurisdiction to                             Adjudicate:                         A Suggested
+                                      Analysis,                     79      Harv.               L.       Rev.            1121,             1168-1172                      (1966)              (same).
+                                             'The Court                           of       Appeals                   for        the           Eighth                Circuit                 appears                    to be             the          only
+                                      Court              of Appeals                         to      have            expressly                      adopted                   a     narrow                 construction                           of      the
+                                      stream-of-commerce                                            theory                analogous                      to       the        one          articulated                        in      Part           II-A
+                                      today,               although                    the         Court              of Appeals                        for the               Eleventh                      Circuit                has        implic-
+                                      itly         adopted                  it.            See          Humble                     v.      Toyota                 Motor Co.,                           Ltd.,            727          F.       2d        709
+                                      (CA8              1984);            Banton                   Industries, Inc. v. Dimatic Die & Tool Co.,                                                                                        801          F. 2d
+                                       1283           (CAll                 1986).                 Two             other             Courts                 of Appeals                         have            found               the         theory
+                                      inapplicable when                                     only a single                         sale occurred                           in the              forum State, but do not
+                                      appear committed                                       to the interpretation                                         of the theory                           that          the Court                     adopts
+                                      today.                  E.        g.,       Chung v.                    NANA                   Development Corp.,                                            783 F. 2d                    1124 (CA4),
+                                      cert.           denied,                 479 U.                S.948 (1986);                             Dalna                      Rodriguez v.                             Hughes Aircraft
+                                      Co.,          781         F. 2d            9    (CA1             1986).                  Similarly,                    the Court                     of Appeals for the Third
+                                      Circuit               has         not interpreted                                the theory                      as JUSTICE                         O'CONNOR's                           opinionhas,
+                                      but         has         rejected                  stream-of-commerce                                            arguments                         for jurisdiction                              when               the
+                                      relationship                          between                     the         distributor                        and           the         defendant                        "remains                     in       dis-
+                                      pute"             and         "evidence                      indicating                     that           [defendant]                        could             anticipate                     either use
+                                      of      its        product                  or        litigation                   in       [the forum                         State]               is      totally               lacking,"                    Max
+
+
+                                                                                                                                                                                                          n.      13,        cert.           denied,
+                                      Daetwyler Corp.                                     v.     R.       Meyer, 762                          F. 2d            290, 298, 300,
+                                      474         U.       S.980 (1985),                              and when                     the defendant's product was not sold in the
+                                      forum              State             and          the        defendant                      "did           not        take advantage                                  of an           indirect                mar-
+                                      keting               scheme,"                     DeJames v.                            Magnificence Carriers, Inc.,                                                             654         F.        2d       280,
+                                      285,           cert.          denied,                  454         U.        S.1085                  (1981).
+        ASAHI    METAL INDUSTRY           CO.  v. SUPERIOR      COURT        119
+
+
+102                        Opinion  of BRENNAN,     J.
+minimum       contacts   between      the  forum    State   and   the retailer
+or  distributor.       Id.,  at 295-296.       The    Court   then   carefully
+explained:
+      "[T]his    is not to say,      of  course,    that   foreseeability      is
+      wholly irrelevant.         But  the foreseeability      that is   critical
+      to due   process    analysis    is not  the  mere    likelihood    that   a
+      product    will find   its way into    the   forum    State.     Rather,
+      it is that the defendant's       conduct and     connection with the
+      forum    State    are  such   that   he should     reasonably      antici-
+      pate   being   haled   into  Court    there."     Id.,  at  297.
+The Court      reasoned    that when      a corporation     may    reasonably
+anticipate    litigation   in a particular    forum,    it cannot claim     that
+such litigation    is unjust or unfair,     because     it "can  act to  allevi-
+ate  the  risk  of burdensome litigation         by procuring insurance,
+passing    the  expected     costs   on  to  consumers,      or,  if the  risks
+are  too great,    severing    its connection     with the State."        Ibid.
+   To  illustrate   the   point,  the   Court   contrasted     the   foreseea-
+bility of litigation    in a State to which       a consumer     fortuitously
+transports     a  defendant's product        (insufficient    contacts) with
+the  foreseeability      of litigation   in  a  State   where     the  defend-
+ant's   product    was   regularly     sold   (sufficient   contacts).      The
+Court    stated:
+      "Hence     if the  sale of a product      of a manufacturer       or  dis-
+      tributor    such as    Audi    or  Volkswagen        is not   simply    an
+      isolated    occurrence,     but arises     from    the   efforts   of  the
+      manufacturer       or   distributor    to  serve,    directly   or indi-
+      rectly, the   market     for its product in other States,        it is not
+      unreasonable      to  subject   it to suit in one    of those States     if
+      its  allegedly    defective    merchandise       has   there   been    the
+      source    of injury    to  its owner    or  to  others.      The   forum
+      State   does   not  exceed    its powers under       the  Due    Process
+      Clause    if it asserts   personal    jurisdiction    over a corpora-
+      tion  that   delivers    its products     into   the  stream     of  com-
+      merce    with the    expectation that they         will  be purchased
+                             OCTOBER       TERM,     1986
+
+
+                             Opinion   of BRENNAN,     J.                  480  U.  S.
+
+
+       by   consumers        in  the   forum     State."       Id.,   at   297-298
+       (emphasis      added).
+The    Court     concluded      its   illustration     by   referring     to   Gray
+v.  American        Radiator &        Standard Sanitary Corp.,               22   Ill.
+2d   432,    176   N.   E.  2d    761   (1961),    a  well-known        stream-of-
+commerce case          in which     the   Illinois   Supreme      Court     applied
+the theory     to  assert jurisdiction       over a component-parts            man-
+ufacturer     that   sold  no   components       directly    in  Illinois,  but   did
+sell  them     to  a  manufacturer         who   incorporated them            into   a
+final product      that  was    sold  in Illinois.     444   U.  S.,  at  297-298.
+   The    Court    in World-Wide Volkswagen               thus   took   great   care
+to  distinguish     "between      a case    involving     goods    which    reach    a
+distant     State    through      a   chain    of  distribution       and    a  case
+involving     goods     which    reach    the   same    State    because      a  con-
+sumer     ...took them there."             Id.,  at 306-307      (BRENNAN,        J.,
+dissenting).3        The California         Supreme       Court     took note       of
+this   distinction,     and   correctly     concluded      that   our   holding    in
+World-Wide        Volkswagen        preserved       the   stream-of-commerce
+theory.       See   App.    to  Pet.    for  Cert.    C-9,    and   n.  3,  C-13--
+C-15;     cf.  Comment,         Federalism,        Due    Process,      and    Mini-
+mum      Contacts:     World-Wide         Volkswagen        Corp v.     Woodson,
+80   Colum.     L.  Rev.    1341,   1359-1361,       and   nn.   140-146     (1980).
+
+
+    In dissent,  I argued that the    distinction was without    constitutional   sig-
+nificance, because   in my view the foreseeability     that a  customer would use
+a product    in a distant  State  was a    sufficient basis  for jurisdiction.    444
+U.  S., at  306-307,   and nn.   11, 12.   See also   id., at 315   (MARSHALL,     J.,
+dissenting)   ("I cannot  agree   that jurisdiction   is necessarily  lacking   if the
+product enters the State     not through   the channels   of distribution but in the
+course of its intended    use by  the consumer"); id.,    at 318-319 (BLACKMUN,
+J., dissenting)  ("[F]oreseeable    use in  another  State  seems   to me little  dif-
+ferent  from  foreseeable   resale  in another   State").    But  I do  not read  the
+decision  in World-Wide     Volkswagen     to establish  a  per se rule against   the
+exercise  of jurisdiction  where   the  contacts  arise  from  a consumer's    use of
+the  product   in a given  State,  but  only  a rule against   jurisdiction  in cases
+involving "one,   isolated occurrence    [of consumer use,   amounting to] ...the
+fortuitous  circumstance    ....  ."  Id., at 295.    See  Hedrick v. Daiko Shoji
+Co.,  715 F.  2d,  at 1358-1359.
+                ASAHI             METAL              INDUSTRY                     CO. v. SUPERIOR                            COURT                      121
+
+
+ 102                                                  Opinion            of STEVENS,                 J.
+      In this              case,           the        facts          found             by       the        California                   Supreme
+Court             support               its      finding             of minimum                        contacts.                     The         court
+found            that          "[a]lthough                    Asahi             did        not        design              or      control             the
+system               of distribution                        that         carried              its      valve           assemblies                    into
+California,                  Asahi            was          aware            of the            distribution system's                                    op-
+eration,              and         it    knew            that it           would             benefit             economically                       from
+the        sale         in      California                  of      products incorporating                                         its       compo-
+nents."                  App.           to     Pet.         for       Cert.           C-11."                Accordingly,                        I   can-
+not join the                     determination                         in     Part          II-A           that        Asahi's              regular
+and         extensive                   sales of component                                    parts           to      a     manufacturer
+it knew              was making regular                                    sales         of the final                 product               in Cali-
+fornia             is      insufficient                    to       establish                 minimum                      contacts                 with
+California.
+     JUSTICE                  STEVENS, join,with                         whom  JUSTICE and WHITE                                        and        JUS-
+TICE          BLACKMUN                                       concurring                    in     part                      concurring                    in
+the judgment.
+      The judgment of the Supreme statedCourt of California should be
+reversed                 for       the        reasons                                 in     Part II-B                    of the            Court's
+opinion.                   While reasons. Parts I join               First,and  is I           II-B,  notI necessary do      not join toPart
+II-A            for        two                                                         it                                                             the
+Court's               decision.                    An         examination                       of      minimum                    contacts                is
+not always                   necessary to                      determine whether                                  a state            court's as-
+sertion             of personal                   jurisdiction is constitutional.                                                 See Burger
+King Corp.                        v.      Rudzewicz,                       471        U.       S. 462,               476-478                  (1985).
+Part II-B                   establishes,                    after          considering                     the factors                  set       forth
+in     World-Wide Volkswagen                                             Corp. v. Woodson, 444                                       U.       S.286,
+292         (1980),               that          California's                     exercise                 of      jurisdiction                      over
+Asahi              in       this         case           would              be        "unreasonable                            and          unfair."
+Ante,            at     116.            This         finding alone                      requires               reversal;                this case
+fits      within             the       rule         that         "minimum                    requirements inherent                                        in
+the        concept               of      'fair       play         and         substantial                   justice'              may defeat
+     ' Moreover,              the Court found that "at least 18 percent of the tubes sold in
+a particular               California             motorcycle               supply          shop        contained Asahi valve                            as-
+semblies," App. to Pet. for Cert. C-11, n.                                                5, and that Asahi had an ongoing
+business relationship with                                 Cheng Shin involving                             average           annual           sales       of
+hundreds             of thousands                 of valve           assemblies,              id.,     at C-2.
+ 122                                     OCTOBER             TERM,         1986
+
+
+                                          Opinion       of STEVENS,           J.                            480    U.   S.
+ the    reasonableness                   of jurisdiction               even if the             defendant             has
+ purposefullyengaged                         in forum activities."                       Burger King, 471
+
+
+ U.    S.,     at   477-478           (quoting          International Shoe                       Co.      v.   Wash-
+ington,          326      U.     S.310,          320      (1945)).            Accordingly,                I   see      no
+reason         in   this     case      for the         plurality          to articulate             "purposeful
+direction"            or   any      other test as              the     nexus        between            an    act    of a
+defendant             and      the     forum        State       that      is   necessary            to    establish
+minimum              contacts.
+     Second,          even        assuming             that      the      test      ought        to    be     formu-
+lated       here,       Part       II-A       misapplies             it   to   the      facts      of this       case.
+The      plurality          seems to assume                   that an unwavering line can                              be
+drawn between "mere                           awareness"               that      a  component               will    find
+its    way       into      the     forum         State        and      "purposeful availment"                           of
+the     forum's          market.              Ante,        at    112.         Over        the     course         of its
+dealings quantum of conduct than "[t]he arguably
+higher             with      Cheng          Shin,       Asahi has             placementengaged  of a productain
+into      the      stream          of    commerce,               without          more         . .    .  ."       Ibid.
+Whether             or    not this         conduct          rises       to   the      level of purposeful
+ availment            requires          a   constitutional               determination                 that       is af-
+fected        by the        volume,          the     value, and            the hazardous character
+of    the      components.                   In most circumstances                            I   would         be     in-
+clined       to conclude             that a regular               course of dealing that results
+in    deliveries  yearsof over  constitute 100,000          units       annually           over      a   period         of
+ several                     would                               "purposeful availment"                           even
+though          the     item delivered to                   the forum            State       was a        standard
+product          marketed throughout                          the     world.

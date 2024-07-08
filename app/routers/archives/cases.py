@@ -8,7 +8,7 @@ from datetime import datetime
 import httpx
 
 from ...schema.archives.cases import Case
-from ...workers.archives.cases import create_case, get_cases, delete_cases
+from ...workers.archives.cases import create_case, get_cases, delete_cases, create_pages
 from ...workers.archives.processing.cases import process_legal_document
 from ...workers.archives.processing.pdf2text import processor
 #from ..schema.archive.images import Image, imageMetadata
@@ -64,27 +64,34 @@ async def add_case_to_archives(api_key: str, pdf_path: str):
     @return: JSONResponse
     """
     try:
-        # First convert the pdf to text
         print(f"Converting pdf to text at {pdf_path}")
         # Check if the file exists
         text_path = pdf_path.replace(".pdf", ".txt")
         if not os.path.exists(text_path):
             text_path = await processor.process_file(pdf_path)
-
         print(f"Processing case at {text_path}")
         pages, case_name, case_date, case_source = process_legal_document(text_path)
         print(f"Case name: {case_name}")
-        if pages is None:
+        if pages is [] or case_name is None:
             return JSONResponse(content={"message": "case content is missing"}, status_code=400)
+        # Make case_date a datetime object
+        case_date = datetime.strptime(case_date, "%m/%d/%Y")
         case = Case(
             api_key=api_key,
             case_name=case_name,
             case_date=case_date,
             case_source=case_source
             )
-        res = create_case(case, pages)
+        
+        case_id = create_case(case)
+
+        if not case_id:
+            return JSONResponse(content={"message": f"Failed to archive case + {case_id}"}, status_code=400)
+
+        res = create_pages(case_id, case, pages)
+        
         if not res:
-            return JSONResponse(content={"message": f"Failed to archive case + {res}"}, status_code=400)
+            return JSONResponse(content={"message": f"Failed to archive page + {res}"}, status_code=400)
     except Exception as e:
         return JSONResponse(content={"message": "error in processing case; " + str(e)}, status_code=400)
     return JSONResponse(content={"message": f"{case.case_name} archived successfully"}, status_code=200)
@@ -112,17 +119,27 @@ async def add_directory_to_archives(api_key: str, dir_path: str):
             print(f"Processing case at {text_path}")
             pages, case_name, case_date, case_source = process_legal_document(text_path)
             print(f"Case name: {case_name}")
-            if pages is None:
+            if pages is [] or case_name is None:
                 return JSONResponse(content={"message": "case content is missing"}, status_code=400)
+            # Make case_date a datetime object
+            case_date = datetime.strptime(case_date, "%m/%d/%Y")
             case = Case(
                 api_key=api_key,
                 case_name=case_name,
                 case_date=case_date,
                 case_source=case_source
                 )
-            res = create_case(case, pages)
+            
+            case_id = create_case(case)
+
+            if not case_id:
+                return JSONResponse(content={"message": f"Failed to archive case + {case_id}"}, status_code=400)
+
+            res = create_pages(case_id, case, pages)
+            
             if not res:
-                return JSONResponse(content={"message": f"Failed to archive case + {res}"}, status_code=400)
+                return JSONResponse(content={"message": f"Failed to archive page + {res}"}, status_code=400)
+            
     except Exception as e:
         return JSONResponse(content={"message": "error in processing case; " + str(e)}, status_code=400)
     return JSONResponse(content={"message": f"{dir_path} archived successfully"}, status_code=200)

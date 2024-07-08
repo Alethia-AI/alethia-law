@@ -3,8 +3,17 @@ from pydantic import BaseModel, ConfigDict
 from pydantic.fields import Field
 from typing import List, Optional
 
-class queryMetadata(BaseModel):
-    query_id: Optional[int] = Field(default=None)
+class addQuery(BaseModel):
+    query: str
+    api_key: str
+    query_level: int # 0 for web search, 1 for image search
+    max_results: Optional[int] = Field(default=3)
+
+    class Config:
+        from_attributes = True
+
+class query(BaseModel):
+    query_id: Optional[int] = Field(default=None) # Primary key; set by the database
     query: str
     api_key: str
     query_level: int # 0 for web search, 1 for image search
@@ -12,7 +21,7 @@ class queryMetadata(BaseModel):
     namespace_id: Optional[str] = Field(default=None)
     archive_id: Optional[str] = Field(default=None)
     use_cache: Optional[bool] = Field(default=True)
-    max_results: int = 3
+    max_results: int = Field(default=3)
 
     class Config:
         from_attributes = True
@@ -22,9 +31,17 @@ class ResultSchema(BaseModel):
     result_id: Optional[int] = Field(default=None) # Primary key; set by the database
     rank: int
     relevance_score: float
-    title: str
-    url: Optional[str] = Field(default=None)
-    text_id: Optional[str] = Field(default=None)
+    case_id: int
+    case_name: str
+    case_date: str
+    page_id: str
+    page_number: int
+    section_type: str
+    concurring_voice: Optional[str] = Field(default=None)
+    dissenting_voice: Optional[str] = Field(default=None)
+    is_binding: Optional[bool] = Field(default=False)
+    case_source: Optional[str] = Field(default=None)
+    text_id: Optional[str] = Field(default=None) # Supposed to be chunk_id
     text: str
     # Relate to the query_id in the queryMetadata:
     query_id: Optional[int] = Field(default=None)

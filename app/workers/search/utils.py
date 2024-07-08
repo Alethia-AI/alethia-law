@@ -1,27 +1,25 @@
 
-from ...schema.search import ResponseSchema, ResultSchema, queryMetadata
+from ...schema.search import ResponseSchema, ResultSchema, addQuery
 from typing import List
 
 from ...dependencies import supabase
 
 
 
-def add_to_queries(query_metadata_: queryMetadata) -> int:
+def add_to_queries(query: addQuery) -> int:
     try:
+        print("Adding to queries")
         res = supabase.from_("queries") \
                 .insert({
                     # query_id will be generated automatically
-                    "query": query_metadata_.query,
-                    "api_key": query_metadata_.api_key,
-                    "query_level": query_metadata_.query_level,
-                    "index_id": query_metadata_.index_id,
-                    "namespace_id": query_metadata_.namespace_id,
-                    "archive_id": query_metadata_.archive_id,
-                    "use_cache": query_metadata_.use_cache,
-                    "max_results": query_metadata_.max_results,
+                    "query": query.query,
+                    "api_key": query.api_key,
+                    "query_level": query.query_level,
+                    "max_results": query.max_results,
                     }) \
                 .execute()
         query_id = res.data[0]["query_id"]
+        print(f"Added to queries with query_id: {query_id}")
         return query_id
     except Exception as e:
         print(f"Failed to add to queries: {str(e)}")
@@ -32,6 +30,7 @@ def add_to_results(query_id_: int, query_results: ResponseSchema) -> bool:
     if query_results is None:
         print("No query results")
         return True
+    print("Adding to results for query_id: ", query_id_)
     for query_result in query_results:
         # Add the results to the database
         try:
@@ -40,8 +39,16 @@ def add_to_results(query_id_: int, query_results: ResponseSchema) -> bool:
                     # result_id will be generated automatically
                     "rank": query_result.rank,
                     "relevance_score": query_result.relevance_score,
-                    "title": query_result.title,
-                    "url": query_result.url,
+                    "case_id": query_result.case_id,
+                    "case_name": query_result.case_name,
+                    "case_date": query_result.case_date,
+                    "page_id": query_result.page_id,
+                    "page_number": query_result.page_number,
+                    "section_type": query_result.section_type,
+                    "concurring_voice": query_result.concurring_voice,
+                    "dissenting_voice": query_result.dissenting_voice,
+                    "is_binding": query_result.is_binding,
+                    "case_source": query_result.case_source,
                     "text_id": query_result.text_id,
                     "text": query_result.text,
                     "query_id": query_id_,
@@ -56,6 +63,7 @@ def add_to_results(query_id_: int, query_results: ResponseSchema) -> bool:
         except Exception as e:
             print(f"Failed to add to results: {str(e)}")
             return False
+    print("Added to results")
     return True
 
 
@@ -66,11 +74,20 @@ def jsonify_results(query_results: List[ResultSchema]):
         results_.append(
             {
                 "rank": result.rank,
-                "title": result.title,
-                "URL": result.url,
+                "relevance_score": result.relevance_score,
+                "case_id": result.case_id,
+                "case_name": result.case_name,
+                "case_date": result.case_date,
+                "page_id": result.page_id,
+                "page_number": result.page_number,
+                "section_type": result.section_type,
+                "concurring_voice": result.concurring_voice,
+                "dissenting_voice": result.dissenting_voice,
+                "is_binding": result.is_binding,
+                "case_source": result.case_source,
                 "text_id": result.text_id,
                 "text": result.text,
-                "relevance_score": result.relevance_score,
+                "query_id": result.query_id,
             }
             )
     json_response_ = {}

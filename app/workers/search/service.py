@@ -11,16 +11,16 @@ from .local_search.archive_search import perform_archive_search
 from .web_search.web_service import perform_search
 #from .related_search import perform_related_search
 
-from app.schema.search import ResultSchema, ResponseSchema, queryMetadata
+from app.schema.search import ResultSchema, ResponseSchema, addQuery
 
 
-METRIC = "inner_product"
-#METRIC = "cosine"
+#METRIC = "inner_product"
+METRIC = "cosine"
 
 #redis_url = os.getenv("REDIS_URL")
 #redis_client = redis.Redis.from_url(redis_url) if redis_url else None
 
-def respond_to_search(queryMetadata_: queryMetadata) -> ResponseSchema:
+def respond_to_search(query: addQuery) -> ResponseSchema:
     # TODO: Add support for the following:
             # - max_results.
             # - archive_id, namespace_id, index_id.
@@ -32,12 +32,12 @@ def respond_to_search(queryMetadata_: queryMetadata) -> ResponseSchema:
         #    return ResponseSchema(**cached_json)
         try:
             query_response: ResponseSchema = None
-            if queryMetadata_.query_level == 0:
-                web_response: ResponseSchema = perform_search(queryMetadata_.query)
+            if query.query_level == 0:
+                web_response: ResponseSchema = perform_search(query.query)
                 query_response = web_response
-            elif queryMetadata_.query_level == 1:
-                embedding = prompt_embedding(queryMetadata_.query)
-                query_response = perform_archive_search(queryMetadata_.api_key, embedding, metric=METRIC)
+            elif query.query_level == 1:
+                embedding = prompt_embedding(query.query)
+                query_response = perform_archive_search(query, embedding, metric=METRIC)
             else:
                 raise HTTPException(
                         status_code=500, detail="Invalid query order: 0 is for web search and 1 is for local archive search."

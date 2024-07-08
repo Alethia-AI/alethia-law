@@ -1,0 +1,1104 @@
+                                      PUBLISHED
+
+
+                       UNITED STATES COURT OF APPEALS
+                             FOR THE FOURTH CIRCUIT
+
+
+                                       No. 19-1124
+
+
+UMG RECORDINGS, INC.; CAPITAL RECORDS, LLC; WARNER BROS
+RECORDS       INC.;  ATLANTIC      RECORDING       CORPORATION;         ELEKTRA
+ENTERTAINMENT GROUP INC.; FUELED BY RAMEN LLC; NONESUCH
+RECORDS       INC.;   SONY     MUSIC      ENTERTAINMENT;          SONY     MUSIC
+ENTERTAINMENT US LATIN LLC; ARISTA RECORDS LLC; LAFACE
+RECORDS LLC; ZOMBA RECORDING LLC,
+
+
+                     Plaintiffs – Appellants,
+
+
+              v.
+
+
+TOFIG KURBANOV, d/b/a FLVTO.BIZ, a/k/a 2CONV.COM; DOES 1-10,
+
+
+                     Defendants – Appellees.
+________________________
+
+
+COPYRIGHT        ALLIANCE;       INTERNATIONAL          ANTICOUNTERFEITING
+COALITION;      MOTION      PICTURE      ASSOCIATION       OF   AMERICA,      INC.;
+ASSOCIATION OF AMERICAN PUBLISHERS,
+
+
+                     Amici Supporting Appellants,
+
+
+ELECTRONIC FRONTIER FOUNDATION,
+
+
+                     Amicus Supporting Appellees.
+
+
+Appeal from the United States District Court for the Eastern District of Virginia, at
+Alexandria. Claude M. Hilton, Senior District Judge. (1:18–cv–00957–CMH–TCB)
+
+
+Argued: April 24, 2020                                            Decided: June 26, 2020
+Before GREGORY, Chief Judge, FLOYD, and THACKER, Circuit Judges.
+
+
+ Reversed and remanded by published opinion. Chief Judge Gregory wrote the opinion, in
+ which Judge Floyd and Judge Thacker joined.
+
+
+ ARGUED:        Ian Heath Gershengorn, JENNER & BLOCK LLP, Washington, D.C., for
+ Appellants. Evan M. Fray-Witzer, CIAMPA FRAY-WITZER, LLP, Boston, Massachusetts,
+ for Appellees.    ON BRIEF:        Ishan K. Bhabha, Alison I. Stein, Jonathan A. Langlinais,
+ JENNER & BLOCK LLP, Washington, D.C., for Appellants. Valentin Gurvits, BOSTON
+ LAW GROUP, PC, Newton, Massachusetts; Matthew Shayefar, LAW OFFICE OF
+ MATTHEW SHAYEFAR, PC, West Hollywood, California, for Appellees. David E. Weslow,
+ Megan L. Brown, Ari S. Meltzer, WILEY REIN LLP, Washington, D.C., for Amicus
+ Association of American Publishers.             Robert H. Rotstein, Los Angeles, California,
+ J. Matthew Williams, MITCHELL SILBERBERG & KNUPP LLP, Washington, D.C., for
+ Amicus    The    Motion    Picture   Association     of  America,    Inc.     Michael    E.  Kientzle,
+ Washington, D.C., John C. Ulin, ARNOLD & PORTER KAYE SCHOLER LLP, Los
+ Angeles,     California,     for   Amici      The     Copyright     Alliance      and    International
+ Anticounterfeiting      Coalition.       Mitchell    L.    Stoltz,   ELECTRONIC           FRONTIER
+ FOUNDATION, San Francisco, California, for Amicus Electronic Frontier Foundation.
+
+
+                                                    2
+GREGORY, Chief Judge:
+
+
+         This appeal concerns whether a defendant, sued by twelve U.S. record companies
+
+
+for alleged copyright infringement, is subject to specific personal jurisdiction in Virginia.
+
+
+The district court, in granting the defendant’s motion to dismiss, concluded that he is not
+
+
+subject to personal jurisdiction in any federal forum. We disagree and, for the reasons that
+
+
+follow, reverse the ruling of the district court and remand for further proceedings.
+
+
+                                                         I.
+
+
+         On August 8, 2018, Plaintiffs–Appellants—twelve record companies that produce,
+
+
+distribute, and license approximately 85% of commercial sound recordings in the United
+States1—commenced this action against Defendant–Appellee Tofig Kurbanov. Appellants
+
+
+are all Delaware corporations, with eight having their principal place of business in New
+
+
+York, three in California, and one in Florida. Kurbanov, born in Rostov-on-Don, Russia,
+
+
+is a Russian citizen who still resides in Rostov-on-Don.
+
+
+         According to Appellants’ complaint, Kurbanov owns and operates the websites
+
+
+www.flvto.biz (“FLVTO”) and www.2conv.com (“2conv,” and together, the “Websites”).
+
+
+The Websites offer visitors a “stream-ripping” service through which audio tracks may be
+
+
+extracted from videos available on various platforms (e.g., YouTube) and converted into a
+
+
+         1 More specifically, they are UMG Recordings, Inc.; Capitol Records, LLC; Warner
+Bros. Records Inc.; Atlantic Recording Corporation; Elektra Entertainment Group Inc.;
+Fueled by Ramen LLC; Nonesuch Records Inc.; Sony Music Entertainment; Sony Music
+Entertainment US Latin LLC; Arista Records LLC; LaFace Records LLC; and Zomba
+Recording LLC.
+                                                         3
+downloadable format (e.g., mp3).                A large portion, perhaps a majority, of the streams
+
+
+ripped using the Websites is alleged to derive unlawfully from YouTube videos.
+
+
+         The Websites, however, are capable of ripping the audio components from a wide
+
+
+variety of sources.         According to Kurbanov, “professors or students might choose to
+
+
+download the audio portions of lectures for later reference and playback,” “bands may want
+
+
+to capture the audio tracks from their live performances that they have captured on video,”
+
+
+or “parents may want the audio portion of a school concert that they recorded.” J.A. 68.
+
+
+Neither Appellants nor YouTube have sanctioned any illicit ripping of audio streams.
+
+
+Indeed, according to Appellants, the Websites’ conversion process circumvents the
+
+
+technological measures implemented by YouTube to control access to content maintained
+
+
+on its servers and to prevent illicit activities such as stream ripping.
+
+
+         The Websites are free to use, and visitors need not create an account or register any
+
+
+information to use the stream ripping services.                    Visitors, however, must agree to the
+
+
+Websites’ Terms of Use by checking a box before they can download any audio files. The
+
+
+Terms of Use explain that they “constitute a contractual agreement between [the visitor]
+
+
+and [FLVTO or 2conv]” and that they give Kurbanov “the right to take appropriate action
+
+
+against any user . . . including civil, criminal, and injunctive redress.” J.A. 158, 168. The
+
+
+Terms of Use also compel visitors to submit and consent to personal jurisdiction in Russia
+
+
+and anywhere else they can be found.                Beyond requiring visitors to accept the Terms of
+
+
+Use, Kurbanov does not maintain any relationship with visitors to the Websites.
+
+
+         Since visitors do not pay to use stream ripping services, virtually all revenues
+
+
+generated by the Websites come from advertisements. Kurbanov does not sell advertising
+
+
+                                                          4
+space on the Websites directly to advertisers. Instead, he sells spaces on the Websites to
+
+
+advertising brokers, most of whom are based in Ukraine but at least two are based in the
+
+
+United States (i.e., MGID in New York and Advertise.com in California). The advertising
+
+
+brokers then resell those spaces to advertisers.                 According to the complaint, some of the
+
+
+advertising brokers and advertisers are interested in the Websites’ “geolocation” or “geo-
+
+
+targeting” capabilities.         That is, advertising brokers or advertisers might want to display
+
+
+specific advertisements to specific blocks of countries, states, or even cities.
+
+
+          Notably, according to Kurbanov, he has little control over the relationship between
+
+
+advertising brokers and advertisers.               For instance, neither the Websites themselves nor
+
+
+advertising spaces for sale are advertised in any way in the United States or anywhere else.
+
+
+Kurbanov also does not have any direct relationship or communication with any of the
+
+
+advertisers, only brokers.           He further has no control over the selection of any location-
+
+
+specific advertising.        The privacy policies on the Websites, though, explain that visitors’
+
+
+IP addresses, countries of origin, and other non-personal information may be collected “to
+
+
+provide targeted advertising.” J.A. 176, 178.
+
+
+          The Websites are successful, in part, because they are two of the most popular
+
+
+stream-ripping websites in the world and are among the most popular websites of any kind
+
+
+on the Internet. According to Kurbanov’s own data, between October 2017 and September
+
+
+2018, the Websites attracted well over 300 million visitors from over 200 distinct countries
+around the world.2        Together, the Websites attracted over 30 million visitors (or about 10%
+
+
+          2 The Websites are also available in approximately two dozen languages.
+
+
+                                                           5
+of all traffic) from the United States. Indeed, of all the visitors to FLVTO and 2conv, the
+
+
+United States was the third and fourth most visited country, respectively.
+
+
+         Within the United States, hundreds of thousands of visitors came from Virginia
+
+
+during the same period.           Of all visitors to FLVTO, nearly 500,000 (or about 2% of all
+
+
+domestic visitors) came from Virginia, making it the 13th most popular state.                         Similarly,
+
+
+about 95,000 (or about 2%) of 2conv’s domestic visitors came from Virginia, making it the
+11th most popular state.3
+
+
+         Beyond visitors, the Websites have some other connections to the United States
+
+
+generally and Virginia more specifically. The Websites’ domain names are registered with
+
+
+www.GoDaddy.com, a U.S.-based registrar of domain names.                            The Websites’ top-level
+
+
+domains—the suffixes “.com” and “.biz”—are administered by the companies Neustar,
+
+
+Inc. (FLVTO) and VeriSign, Inc. (2conv), both of which are headquartered in Virginia.
+
+
+The Websites have also registered a Digital Millennium Copyright Act agent with the U.S.
+
+
+Copyright Office. Finally, until July 2018, the Websites’ servers were hosted by Amazon
+Web Services, which has servers physically located in Virginia.4
+
+
+         Essentially all of the work that Kurbanov has performed on the Websites has been
+
+
+performed in Russia, and he has never performed any work on the Websites from within
+
+
+the United States. He also operates the Websites entirely from Russia. He has never had
+
+
+         3  The    figures    for  the   number      of  visits,   as  opposed      to  unique     visitors,   are
+proportionally similar.
+
+
+         4 Since July 2018, the Websites have been hosted by Hetzner Online GmbH, a
+German-based company without servers anywhere in the United States.
+                                                         6
+employees anywhere in the United States or owned or leased real estate anywhere here.
+
+
+Neither has he held a bank account or paid taxes in the United States. Kurbanov has never
+
+
+been to Virginia or anywhere else in the United States and claims that it would be extremely
+
+
+burdensome and costly for him to travel to Virginia or anywhere else in the United States
+
+
+for trial and other proceedings. Among other reasons, he does not currently have a visa to
+
+
+visit, has never applied for, or has never obtained a visa to visit the United States, and it
+would be extremely difficult for him to do so.5
+
+
+          In their complaint, Appellants alleged that the Websites are a facilitator of music
+
+
+piracy and asserted five claims for separate violations of the Copyright Act. As to personal
+
+
+jurisdiction, Appellants alleged the district court had specific jurisdiction under Federal
+
+
+Rule of Civil Procedure 4(k)(1) because of Kurbanov’s contacts with Virginia and, in the
+
+
+alternative, under Rule 4(k)(2), because of his contacts with the United States more
+
+
+generally.      In response, Kurbanov timely filed a motion to dismiss for lack of personal
+
+
+jurisdiction, or in the alternative, transfer the action to the district court for the Central
+
+
+District of California.
+
+
+          On January 12, 2019, the district court granted Kurbanov’s motion to dismiss for
+
+
+lack of personal jurisdiction.           The district court found the Websites are semi-interactive,
+
+
+visitors’ interactions with them are non-commercial in nature, and there were no other acts
+
+
+          5 According to the Department of State, visa services are available in Moscow,
+ Yekaterinburg, and Vladivostok.                  See   https://ru.usembassy.gov/visas (saved as ECF
+ opinion attachment). Kurbanov states that, from where he lives in Rostov-on-Don, it is a
+ 12-hour drive to Moscow, a 28-hour drive to Yekaterinburg, and nearly a 12-hour flight to
+ Vladivostok.
+                                                           7
+by Kurbanov that established purposeful targeting.                        As a result, Kurbanov did not
+
+
+purposefully avail himself of the benefits and protections of either Virginia or the United
+
+
+States.     The district court then concluded that exercising personal jurisdiction over
+
+
+Kurbanov in any federal forum would violate due process under both Rule 4(k)(1) and
+4(k)(2).6
+
+
+         On January 31, 2019, Appellants filed a timely notice of appeal.
+
+
+                                                         II.
+
+
+         We review de novo           the district court’s ruling that it lacked personal jurisdiction
+
+
+under Federal Rule of Civil Procedure 12(b)(2).                 Tire Eng’g & Distrib., LLC v. Shandong
+
+
+Linglong Rubber Co., Ltd., 682 F.3d 292, 300 (4th Cir. 2012).                          Under Rule 12(b)(2), a
+
+
+defendant “must affirmatively raise a personal jurisdiction challenge, but the plaintiff bears
+
+
+the burden of demonstrating personal jurisdiction at every stage following such a
+
+
+challenge.”      Grayson v. Anderson, 816 F.3d 262, 267 (4th Cir. 2016). The plaintiff must
+
+
+establish personal jurisdiction by a preponderance of the evidence but need only make a
+
+
+prima facie showing.         Combs v. Bakker, 886 F.2d 673, 676 (4th Cir. 1989). In considering
+
+
+whether a plaintiff has met this burden, a court may look beyond the complaint to affidavits
+
+
+and exhibits in order to assure itself of personal jurisdiction.                Grayson, 816 F.3d at 269. A
+
+
+court must also “construe all relevant pleading allegations in the light most favorable to the
+
+
+         6  Having reached this conclusion, the district court declined to engage in a
+reasonability analysis and denied Appellants’ request for jurisdictional discovery.                            The
+court also found that it need not address whether transfer to the Central District of
+California would be appropriate as that venue would also be without jurisdiction.
+                                                          8
+plaintiff, assume credibility, and draw the most favorable inferences for the existence of
+
+
+jurisdiction.”     Combs, 886 F.2d at 676.
+
+
+                                                          III.
+
+
+         As a threshold matter, the parties agree that there is no general personal jurisdiction
+
+
+over Kurbanov in Virginia.               They instead dispute whether there is specific personal
+
+
+jurisdiction over Kurbanov in Virginia, which Appellants assert under Rule 4(k)(1) or, in
+
+
+the alternative, Rule 4(k)(2).
+
+
+         Rule 4(k)(1) provides that the district court may exercise personal jurisdiction over
+
+
+Kurbanov if he is “subject to the jurisdiction of a court of general jurisdiction in the state
+
+
+where the district court is located,” i.e., Virginia. Fed. R. Civ. P. 4(k)(1). That exercise of
+
+
+personal jurisdiction over Kurbanov is lawful “if [1] such jurisdiction is authorized by the
+
+
+long-arm statute of the state in which it sits and [2] the application of the long-arm statute
+
+
+is consistent with the due process clause of the Fourteenth Amendment.”                                  Consulting
+
+
+Eng’rs Corp. v. Geometric Ltd., 561 F.3d 273, 277 (4th Cir. 2009). Here, Virginia’s long-
+arm statute7     extends personal jurisdiction over nonresident defendants to the full extent
+
+
+permitted by the Fourteenth Amendment’s Due Process Clause.                          See, e.g., CFA Inst. v. Inst.
+
+
+of Chartered Fin. Analysts of India, 551 F.3d 285, 293 (4th Cir. 2009); Peninsula Cruise,
+
+
+Inc. v. New River Yacht Sales, Inc., 257 Va. 315 (1999).                       “Because Virginia’s long-arm
+
+
+         7  Virginia’s long-arm statute specifically provides that a court “may exercise
+personal jurisdiction over a person . . . as to a cause of action arising from the person’s . . .
+transacting any business in [the state].” Va. Code Ann. § 8.01–328.1(A)(1).
+                                                           9
+statute is intended to extend personal jurisdiction to the extent permissible under the due
+
+
+process     clause,”     the  statutory     and   constitutional      inquiries     merge     into   one    inquiry.
+
+
+Consulting Eng’rs Corp., 561 F.3d at 277 (citation omitted).                      Thus, the district court has
+
+
+jurisdiction over a nonresident defendant, like Kurbanov, if the exercise of such jurisdiction
+
+
+comports with the strictures of constitutional due process.
+
+
+         Rule 4(k)(2) similarly provides that the district court may exercise personal
+
+
+jurisdiction over Kurbanov if he is “not subject to jurisdiction in any state’s courts of
+
+
+general jurisdiction” and doing so would be consistent with constitutional due process.
+
+
+Fed. R. Civ. P. 4(k)(2).         The district court performs the same due process analysis as the
+
+
+analysis under Rule 4(k)(1), only the analysis is applied to the entirety of the United States,
+
+
+as opposed to Virginia.             See Base Metal Trading v. OJSC Novokuznetsky Aluminum
+
+
+Factory, 283 F.3d 208, 215 (4th Cir. 2002) (“Rule 4(k)(2) allows a federal court to assert
+
+
+jurisdiction in cases ‘arising under federal law’ when the defendant is not subject to
+
+
+personal jurisdiction in any state court, but has contacts with the United States as a
+
+
+whole.”).
+
+
+         To meet the constitutional due process requirements for personal jurisdiction,
+
+
+whether under Rule 4(k)(1) for Virginia or Rule 4(k)(2) for the United States, Kurbanov
+
+
+must have “minimum contacts” such that “the maintenance of the suit does not offend
+
+
+traditional notions of fair play and substantial justice.”              Consulting Eng’rs Corp., 561 F.3d
+
+
+at 277 (quoting Int’l Shoe Co. v. Wash., 326 U.S. 310, 316 (1945)). The minimum contacts
+
+
+inquiry requires Appellants to show that Kurbanov “purposefully directed his activities at
+
+
+the residents of the forum” and that Appellants’ causes of action “arise out of” those
+
+
+                                                         10
+activities.     Burger King Corp. v. Rudzewicz, 471 U.S. 462, 472 (1985) (citation and
+
+
+quotation omitted).         The inquiry is designed to ensure that Kurbanov is not “haled into a
+
+
+jurisdiction solely as a result of random, fortuitous, or attenuated contacts.”                      Id. at 475. In
+
+
+other words, it protects him from having to defend himself in a forum where he did not
+
+
+anticipate being sued.        See World–Wide Volkswagen Corp. v. Woodson, 444 U.S. 286, 297
+
+
+(1980); see also ESAB Group, Inc. v. Centricut, Inc., 126 F.3d 617, 623 (4th Cir. 1997)
+
+
+ (underscoring that minimum contacts must have been so substantial that “they amount to a
+
+
+surrogate for presence and thus render the exercise of sovereignty just”).
+
+
+          More recently, the Supreme Court also stressed that the minimum contacts analysis
+
+
+must focus “on the relationship among the defendant, the forum, and the litigation.”
+
+
+Walden v. Fiore, 571 U.S. 277, 283 (2014) (explaining that the “‘minimum contacts’
+
+
+analysis looks to the defendant’s contacts with the forum State itself, not the defendant’s
+
+
+contacts with persons who reside there”); see Bristol–Myers Squibb Co. v. Superior Court,
+
+
+137 S. Ct. 1773, 1781 (2017) (“In order for a court to exercise specific jurisdiction over a
+
+
+claim, there must be an affiliation between the forum and the underlying controversy,
+
+
+principally, [an] activity or an occurrence that takes place in the forum State.”).
+
+
+          We have synthesized the due process requirements for asserting specific personal
+
+
+jurisdiction into a three-prong test:            “(1) the extent to which the defendant purposefully
+
+
+availed itself of the privilege of conducting activities in the State; (2) whether the plaintiffs’
+
+
+claims arise out of those activities directed at the State; and (3) whether the exercise of
+
+
+personal jurisdiction would be constitutionally reasonable.”                    Consulting Eng’rs Corp., 561
+
+
+F.3d at 278 (quoting ALS Scan, Inc. v. Digital Serv. Consultants, Inc., 293 F.3d 707, 712
+
+
+                                                          11
+(4th Cir. 2002) (quotations and citations omitted)). The district court concluded Kurbanov
+
+
+did not take any actions to purposefully avail himself of Virginia, and Appellants’ claims
+
+
+did not arise out of forum-related activities.               We disagree with these determinations and
+
+
+will now address each prong in turn.
+
+
+                                                          A.
+
+
+          The first prong, purposeful availment, concerns whether and to what extent “the
+
+
+defendant purposefully avail[ed] himself of the privilege of conducting business under the
+
+
+laws of the forum state.”          Consulting Eng’rs Corp., 561 F.3d at 278. We have previously
+
+
+noted that this prong is not susceptible to a mechanical application and set forth a list of
+
+
+various nonexclusive factors to consider:
+
+
+                   (1) whether the defendant maintained offices or agents in the
+                   State; (2) whether the defendant maintained property in the
+                   State; (3) whether the defendant reached into the State to solicit
+                   or initiate business; (4) whether the defendant deliberately
+                   engaged in significant or long-term business activities in the
+                   State; (5) whether a choice of law clause selects the law of the
+                   State; (6) whether the defendant made in-person contact with a
+                   resident of the State regarding the business relationship; (7)
+                   whether the relevant contracts required performance of duties
+                   in the State; and (8) the nature, quality, and extent of the
+                   parties’ communications about the business being transacted.
+
+
+Sneha Media & Entm’t, LLC v. Associated Broad. Co. P. Ltd., 911 F.3d 192, 198–99 (4th
+
+
+Cir. 2018) (citing Consulting Eng’rs Corp., 561 F.3d at 278). Relevant to this analysis are
+
+
+the quality and nature of the defendant’s connections, not merely the number of contacts
+
+
+between the defendant and the forum state.                    Tire Eng’g, 682 F.3d at 301.             Through an
+
+
+analysis of these nonexclusive factors, if a court finds that Kurbanov has availed himself
+
+
+of the privilege of conducting business in Virginia, specific personal jurisdiction exists.
+                                                          12
+See Consulting Eng’rs Corp., 561 F.3d at 278 (“[B]ecause [the defendant’s] activities are
+
+
+shielded by the benefits and protections of the forum’s laws it is presumptively not
+
+
+unreasonable to require him to submit to the burdens of litigation in that forum as well.”
+
+
+(alterations in original) (quoting Burger King, 471 U.S. at 476)).
+
+
+         In the context of online activities and websites, as here, we have also recognized the
+
+
+need to adapt traditional notions of personal jurisdictions. We have adopted the “sliding
+
+
+scale” model articulated in Zippo Manufacturing Co. v. Zippo Dot Com, Inc., 952 F. Supp.
+
+
+1119 (W.D. Pa. 1997), to help determine when a defendant’s online activities are sufficient
+to justify the exercise of personal jurisdiction.            See ALS Scan, 293 F.3d at 707.8             Regardless
+
+
+of where on the sliding scale a defendant’s web-based activity may fall, however, “[w]ith
+
+
+respect to specific jurisdiction, the touchstone remains that an out-of-state person have
+
+
+engaged in some activity           purposefully directed          toward the forum state . . . creat[ing] a
+
+
+substantial connection with the forum state.”                 ESAB Grp., Inc., 126 F.3d at 625 (internal
+
+
+quotation marks and alteration omitted).
+
+
+         With these guiding principles in mind, we conclude that Kurbanov’s contacts with
+
+
+Virginia are sufficient to establish purposeful availment. As an initial matter, the Websites
+
+
+are certainly interactive to a degree, since they collect certain personal information from
+
+
+visitors and visitors must agree to certain terms and conditions in order to access
+
+
+         8  The    Zippo    test establishes a sliding scale—interactive, semi-interactive, and
+passive—and states that the exercise of personal jurisdiction is justified when a nonresident
+defendant “(1) directs electronic activity into the State, (2) with the manifested intent of
+engaging in business or other interactions within the State, and (3) that activity creates, in
+a person within the State, a potential cause of action cognizable in the State’s courts.”                         ALS
+Scan, 293 F.3d at 713–14 (citing Zippo, 952 F. Supp. at 1124).
+                                                          13
+downloadable files.           Whether the Websites are highly interactive or semi-interactive,
+
+
+however, is       not determinative for purposes                of personal jurisdiction.            We recently
+
+
+recognized that “[t]he internet we know today is very different from the internet of 1997,
+
+
+when Zippo was decided.”             Fidrych v. Marriott Int’l, Inc., 952 F.3d 124, 141 n.5 (4th Cir.
+
+
+ 2020) (noting, on today’s Internet, “[i]t is an extraordinarily rare website that is not
+
+
+ interactive at some level”) (citation omitted).              Were we to “attach too much significance
+
+
+ on the mere fact of interactivity, we risk losing sight of the key issue in a specific
+
+
+ jurisdiction case—whether the defendant has purposefully directed [his] activities at
+
+
+ residents of the forum.”        Id. at 142.
+
+
+          Instead, we find there are more than sufficient facts raised to conclude that
+
+
+ Kurbanov has purposefully availed himself of the privilege of conducting business in
+
+
+ Virginia and thus had a “fair warning” that his forum-related activities could “subject [him]
+
+
+ to [Virginia’s] jurisdiction.”        See Burger King, 471 U.S. at 472. To start, his contacts with
+
+
+ Virginia are plentiful. In the relevant period, between October 2017 and September 2018,
+
+
+ more than half a million unique visitors went to the Websites, totaling nearly 1.5 million
+
+
+ visits. These visits made Virginia one of the most popular states in terms of unique visitors
+
+
+ as well as number of visits.
+
+
+          In addition to the volume of visitors, we also find the nature of the repeated
+
+
+ interaction between the Websites and visitors to be a commercial relationship. Of course,
+
+
+ the Websites are free to use, and no cash is exchanged. But the mere absence of a monetary
+
+
+ exchange does not automatically imply a non-commercial relationship. It is hardly unusual
+
+
+ for websites to be free to use in today’s Internet because many corporations “make money
+
+
+                                                          14
+selling advertising space, by directing ads to the screens of computers employing their
+
+
+software.”     See Metro-Goldwyn-Mayer Studios Inc. v. Grokster, Ltd., 545 U.S. 913, 926–
+
+
+27 (2005).
+
+
+         Here, the visitors’ acts of accessing the Websites (and downloading the generated
+
+
+files) are themselves commercial relationships because Kurbanov has made a calculated
+
+
+business choice not to directly charge visitors in order to lure them to his Websites.
+
+
+Kurbanov then requires visitors to agree to certain contractual terms, giving him the
+
+
+authority to collect, among other information, their IP addresses and country of origin. Far
+
+
+from being indifferent to geography, any advertising displayed on the Websites is directed
+
+
+towards specific jurisdictions like Virginia. Kurbanov ultimately profits from visitors by
+
+
+selling    directed     advertising     space     and    data   collected     to   third-party     brokers,  thus
+
+
+purposefully availing himself of the privilege of conducting business within Virginia.
+
+
+         We are not persuaded by Kurbanov’s attempt to distance himself from this
+
+
+commercial arrangement by contending that any commercial relationship that may exist
+
+
+lies with advertising brokers, as opposed to directly with the advertisers or visitors.
+
+
+According to Kurbanov, he lacks any control over what advertising is displayed because
+
+
+of this lack of a commercial relationship. But at a minimum, Kurbanov facilitates targeted
+
+
+advertising by collecting and selling visitors’ data.                While he has outsourced the role of
+
+
+finding advertisers for the Websites to brokers, the fact remains that he earns revenues
+
+
+precisely because the advertising is targeted to visitors in Virginia. Moreover, as one court
+
+
+appropriately concluded, “it is immaterial whether the third-party advertisers or [the
+
+
+defendant] targeted California residents,” or Virginia residents in Kurbanov’s case.                         See
+
+
+                                                         15
+Mavrix Photo, Inc. v. Brand Techs., Inc., 647 F.3d 1218, 1230 (9th Cir. 2011). “The fact
+
+
+that the advertisements targeted California [or here, Virginia] residents indicates that [the
+
+
+defendant] knows—either actually or constructively—about its California [Virginia] user
+
+
+base, and that it exploits that base for commercial gain by selling space on its website for
+
+
+advertisements.”       See id.; see also uBID, Inc. v. GoDaddy Group, Inc., 623 F.3d 421, 428
+
+
+(7th Cir. 2010) (rejecting the defendant’s attempt to “distance itself from Illinois by casting
+
+
+the Illinois market as simply one among many, a place of no particular interest to it”). In
+
+
+this instance, we reject the notion that the relationship between Kurbanov’s Websites and
+
+
+their visitors can hardly be labeled commercial.
+
+
+         We also find several other relevant facts, together with those already discussed,
+
+
+suggest that Kurbanov intended to invoke the protections of Virginia and the United States
+
+
+more generally.        For instance, Kurbanov registered a Digital Millennium Copyright Act
+
+
+agent with the U.S. Copyright Office, thereby qualifying the Websites for certain safe
+
+
+harbor defenses to copyright infringement claims. Kurbanov has also contracted with U.S.-
+
+
+based advertising brokers, registered his Websites with U.S.-based domain registers, and
+
+
+until recently relied on U.S.-based servers. These facts might not be individually sufficient
+
+
+to  confer     specific    personal     jurisdiction,     but   when     viewed      in  the    context  of  other
+
+
+jurisdictionally relevant facts, they contradict Kurbanov’s contention that he could not have
+
+
+anticipated being haled into court in Virginia.
+
+
+         In sum, we conclude Kurbanov’s contacts with Virginia are quantitatively and
+
+
+qualitatively sufficient to demonstrate that he purposefully availed himself of the privilege
+
+
+of conducting business here.
+
+
+                                                          16
+                                                          B.
+
+
+         The second prong, whether Appellants’ claims arise out of the activities directed at
+
+
+the forum, concerns to what extent Kurbanov’s contacts with Virginia form the basis of the
+
+
+suit.   Consulting Eng’g, 561 F.3d at 278–79 (citations omitted).                         “The analysis here is
+
+
+generally not complicated.             Where activity in the forum state is ‘the genesis of [the]
+
+
+dispute,’ this prong is easily satisfied.”           Tire Eng’g, 682 F.3d at 303 (citing CFA Inst., 551
+
+
+F.3d at 295). And Appellants’ claims arise out of activities directed at the forum state if
+
+
+“substantial correspondence and collaboration between the parties, one of which is based
+
+
+in the forum state, forms an important part of the claim.”                  See id. at 295–96.
+
+
+         Here, we find that Appellants’ claims arise out of activities directed at Virginia.
+
+
+Kurbanov made two globally accessible websites and Virginia visitors used them for
+
+
+alleged music piracy.          In addition, Kurbanov knew the Websites were serving Virginian
+
+
+visitors and yet took no actions to limit or block access, all while profiting from the data
+
+
+ harvested from the same visitors.             It is hardly surprising, then, that Kurbanov’s contacts
+
+
+ with Virginia were “substantial and form[ed] a central part of [Appellants’] claims.”                           See
+
+
+ Tire Eng’g, 682 F.3d at 306.
+
+
+          Kurbanov, not directly addressing this prong, insists that Appellants are improperly
+
+
+ attempting to elevate the significance of non-claim related contacts with Virginia.                             For
+
+
+ instance, Kurbanov points to Appellants’ focus on the raw number of viewers and other
+
+
+ attenuated     contractual      agreements       with     U.S.-based      businesses.         But,    contrary    to
+
+
+ Kurbanov’s contention, the Websites’ large audience in Virginia for alleged music piracy
+
+
+ and the sale of visitors’ data to advertising brokers are what gave rise to Appellants’
+
+
+                                                          17
+copyright infringement claims.                 See Bristol–Myers Squibb Co., 137 S. Ct. at 1780
+
+
+ (recognizing      there    must    be   “an    affiliation    between      the   forum     and    the   underlying
+
+
+ controversy, principally, [an] activity or an occurrence that takes place in the forum State”)
+
+
+ (citation omitted).
+
+
+          Indeed, this is not a situation where a defendant merely made a website that happens
+
+
+ to be accessible in Virginia.        See, e.g., Scottsdale Capital Advisors Corp. v. The Deal, LLC,
+
+
+ 887 F.3d 17, 21 (1st Cir. 2018).            Rather, Kurbanov actively facilitated the alleged music
+
+
+ piracy through a complex web involving Virginia visitors, advertising brokers, advertisers,
+
+
+ and location-based advertising. From Virginia visitors, he collected personal data as they
+
+
+ visited the Websites. To the advertising brokers, he sold the collected data and advertising
+
+
+ spaces on the Websites. For end advertisers, he enabled location-based advertising in order
+
+
+ to pique visitors’ interest and solicit repeated visits.               And through this intricate network,
+
+
+ Kurbanov directly profited from a substantial audience of Virginia visitors and cannot now
+
+
+ disentangle himself from a web woven by him and forms the basis of Appellants’ claims.
+
+
+ Thus, we find these facts to adequately establish an “affiliation between [Virginia] and the
+
+
+ underlying controversy.”          See Bristol–Myers Squibb Co., 137 S. Ct. at 1780.
+
+
+          In sum, we conclude Appellants’ copyright infringement claims arise out of
+
+
+Kurbanov’s activities directed at Virginia.
+
+
+                                                        * * *
+
+
+          As previously discussed, we also find Kurbanov’s contacts sufficiently show he
+
+
+purposefully       availed     himself     of   the   privilege     of   conducting      business      in  Virginia.
+
+
+Therefore, the exercise of specific personal jurisdiction under Rule 4(k)(1) is appropriate
+
+
+                                                          18
+if it is constitutionally reasonable.9            We recognize the district court did not perform a
+
+
+ reasonability analysis in the first instance, so we cannot address this prong on appeal.                       See
+
+
+ Lovelace v. Lee, 472 F.3d 174, 203 (4th Cir. 2006) (emphasizing that we are “a court of
+
+
+ review, not of first view” (internal quotation marks omitted)).                     Accordingly, the district
+
+
+ court on remand should perform the required reasonability analysis.
+
+
+                                                         IV.
+
+
+          For the foregoing reasons, we reverse the district court’s ruling and remand for
+
+
+ proceedings consistent with this opinion.
+
+
+                                                                            REVERSED AND REMANDED
+
+
+          9 Having reached this conclusion, we need not address whether personal jurisdiction
+ is appropriate under Rule 4(k)(2).
+                                                         19

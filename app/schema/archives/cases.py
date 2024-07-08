@@ -19,12 +19,21 @@ class Page(BaseModel):
     page_id: str # primary_key, needs to be explicxitly given
     api_key: str
     case_id: str
-    text: str
     section_type: str
     page_number: int
     is_binding: bool
     concurring_voice: Optional[str] = Field(default=None)
     dissenting_voice: Optional[str] = Field(default=None)
+
+    class Config:
+        from_attributes = True
+
+
+class Chunk(BaseModel):
+    chunk_id: str # primary_key, needs to be explicxitly given
+    api_key: str
+    page_id: str
+    text: str
     embeddings: List[float]
 
     class Config:

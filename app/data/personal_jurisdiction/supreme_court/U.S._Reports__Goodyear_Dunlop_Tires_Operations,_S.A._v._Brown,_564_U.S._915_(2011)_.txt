@@ -1,0 +1,713 @@
+                               OCTOBER TERM, 2010                                        915
+
+
+                                         Syllabus
+
+
+   GOODYEAR DUNLOP TIRES OPERATIONS, S. A.,
+      et al.      v.  BROWN          et    ux.,   co-administrators                of
+                  the     ESTATE          OF    BROWN,           et   al.
+
+
+certiorari to the court of appeals of north carolina
+
+
+        No. 10–76.      Argued January 11, 2011—Decided June 27, 2011
+
+
+Respondents, North Carolina residents whose sons died in a bus accident
+   outside Paris, France,  led a suit for wrongful-death damages in North
+   Carolina state court.         Alleging that the accident was caused by tire
+   failure, they named as defendants Goodyear USA, an Ohio corporation,
+   and petitioners, three Goodyear USA subsidiaries, organized and oper
+   ating, respectively, in Luxembourg, Turkey, and France.                     Petitioners’
+   tires are manufactured primarily for European and Asian markets and
+   differ in size and construction from tires ordinarily sold in the United
+   States.    Petitioners are not registered to do business in North Carolina;
+   have no place of business, employees, or bank accounts in the State; do
+   not design, manufacture, or advertise their products in the State; and
+   do not solicit business in the State or sell or ship tires to North Carolina
+   customers.      Even so, a small percentage of their tires were distributed
+   in North Carolina by other Goodyear USA af liates.                     The trial court
+   denied petitioners’ motion to dismiss the claims against them for want of
+   personal jurisdiction.       The North Carolina Court of Appeals af rmed,
+   concluding that the North Carolina courts had general jurisdiction over
+   petitioners, whose tires had reached the State through “the stream of
+   commerce.”
+Held:   Petitioners     were    not   amenable      to   suit  in   North    Carolina     on
+   claims unrelated to any activity of petitioners in the forum State.
+   Pp. 923–931.
+      (a) The Fourteenth Amendment’s Due Process Clause sets the outer
+   boundaries of a state tribunal’s authority to proceed against a defendant.
+   The pathmarking decision of International Shoe Co. v. Washington, 326
+   U. S. 310, provides that state courts may exercise personal jurisdiction
+   over an out-of-state defendant who has “certain minimum contacts with
+   [the State] such that the maintenance of the suit does not offend ‘tradi
+   tional notions of fair play and substantial justice.’ ”              Id., at 316.    En
+   deavoring to give speci c content to the “fair play and substantial jus
+   tice” concept, the Court in International Shoe classi ed cases involving
+   out-of-state corporate defendants.           First, the Court recognized that ju
+   risdiction could be asserted where the corporation’s in-state activity is
+916          GOODYEAR DUNLOP TIRES OPERATIONS, S. A.
+                                         v. BROWN
+                                           Syllabus
+
+
+   “continuous and systematic” and gave rise to the episode-in-suit.                        Id.,
+   at 317.     It also observed that the commission of “single or occasional
+   acts” in a State may be suf cient to render a corporation answerable in
+   that State with respect to those acts, though not with respect to matters
+   unrelated to the forum connections.              Id., at 318.     These two categories
+   compose what is now known as “speci c jurisdiction.”                         Helicopteros
+   Nacionales de Colombia, S. A.             v. Hall, 466 U. S. 408, 414, n. 8.          Inter
+   national Shoe distinguished from cases that  t within the “speci c juris
+   diction” categories, “instances in which the continuous corporate opera
+   tions within a state [are] so substantial and of such a nature as to justify
+   suit against it on causes of action arising from dealings entirely distinct
+   from those activities.”          326 U. S., at 318.        Adjudicatory authority so
+   grounded is now called “general jurisdiction.”                 Helicopteros, 466 U. S.,
+   at 414, n. 9.    Since International Shoe, this Court’s decisions have elab
+   orated primarily on circumstances that warrant the exercise of speci c
+   jurisdiction.      In only two decisions postdating International Shoe                   has
+   this Court considered whether an out-of-state corporate defendant’s in
+   state contacts were suf ciently “continuous and systematic” to justify
+   the exercise of general jurisdiction over claims unrelated to those con
+   tacts: Perkins      v. Benguet Consol.        Mining     Co., 342 U. S. 437; and       Heli
+   copteros, 466 U. S. 408.         Pp. 923–925.
+      (b)  Petitioners lack “the kind of continuous and systematic general
+   business contacts” necessary to allow North Carolina to entertain a suit
+   against them unrelated to anything that connects them to the State.
+   Helicopteros, 466 U. S., at 416.          The stream-of-commerce cases on which
+   the North Carolina court relied relate to exercises of speci c jurisdiction
+   in products liability actions, in which a nonresident defendant, acting
+   outside    the forum, places in the stream of commerce a product that
+   ultimately causes harm inside             the forum.      Many state long-arm stat
+   utes authorize courts to exercise speci c jurisdiction over manufactur
+   ers when the events in suit, or some of them, occurred within the forum
+   State.    The North Carolina court’s stream-of-commerce analysis elided
+   the essential difference between case-speci c and general jurisdiction.
+   Flow of a manufacturer’s products into the forum may bolster an af lia
+   tion germane to speci c jurisdiction, see, e. g., World-Wide Volkswagen
+   Corp.    v. Woodson,      444 U. S. 286, 297; but ties serving to bolster the
+   exercise of speci c jurisdiction do not warrant a determination that,
+   based on those ties, the forum has general jurisdiction over a defendant.
+   A corporation’s “continuous activity of some sorts within a state,” Inter
+   national     Shoe   instructed, “is not enough to support the demand that
+   the corporation be amenable to suits unrelated to that activity.”                        326
+   U. S., at 318.
+                             Cite as: 564 U. S. 915 (2011)                               917
+
+
+                                         Syllabus
+
+
+      Measured against       Helicopteros and Perkins, North Carolina is not a
+   forum in which it would be permissible to subject petitioners to general
+   jurisdiction.     In the 1952 Perkins case, general jurisdiction was appro
+   priately exercised over a Philippine corporation sued in Ohio, where the
+   company’s affairs were overseen during World War II.                  In Helicopteros,
+   however, the survivors of U. S. citizens killed when a helicopter owned
+   by   a  Colombian       corporation     crashed    in   Peru    could    not   maintain
+   wrongful-death actions against that corporation in Texas, where the
+   company’s contacts “consisted of sending its chief executive of cer to
+   Houston for a contract-negotiation session; accepting into its New York
+   bank account checks drawn on a Houston bank; purchasing helicopters,
+   equipment, and training services from [a Texas enterprise]; and sending
+   personnel to [Texas] for training.”            466 U. S., at 416.      These links to
+   Texas did not “constitute the kind of continuous and systematic general
+   business contacts . . . found to exist in Perkins,” and were insuf cient
+   to support the exercise of jurisdiction over a claim that neither “ ‘ar[o]se
+   out   of ’ . .  .  no[r]  related    to”  the   defendant’s     activities    in  Texas.
+   Id., at 415–416.       This Court sees no reason to differentiate from the
+   ties to Texas held insuf cient in           Helicopteros,     the sales of petition
+   ers’ tires sporadically made in North Carolina through intermediaries.
+   Pp. 926–929.
+      (c) Neither below nor in their brief in opposition to the petition for
+   certiorari did respondents urge disregard of petitioners’ discrete status
+   as subsidiaries and treatment of all Goodyear entities as a “unitary busi
+   ness,” so that jurisdiction over the parent would draw in the subsid
+   iaries as well.     Respondents have therefore forfeited this contention.
+   Pp. 930–931.
+199 N. C. App. 50, 681 S. E. 2d 382, reversed.
+
+
+   Ginsburg, J., delivered the opinion for a unanimous Court.
+
+
+    Meir     Feder     argued the cause for petitioners.                      With him
+on the briefs were Glen D. Nager, Samuel Estreicher, James
+M.   Brogan,      and William          K.   Davis.
+    Benjamin         J.  Horwich        argued the cause for the United
+States as      amicus       curiae     urging reversal.            With him on the
+brief were        Acting      Solicitor      General      Katyal,       Assistant       At
+torney General West, Deputy                   Solicitor General Stewart, and
+Michael S. Raab.
+918       GOODYEAR DUNLOP TIRES OPERATIONS, S. A.
+                                  v. BROWN
+                             Opinion of the Court
+
+
+   Collyn A. Peddie argued the cause for respondents.                     With
+her on the brief were David F. Kirby, William B. Bystryn
+ski, and C. Mark Holt.*
+   Justice Ginsburg delivered the opinion of the Court.
+   This case concerns the jurisdiction of state courts over cor
+porations organized and operating abroad.                   We address, in
+particular, this question: Are foreign subsidiaries of a United
+States parent corporation amenable to suit in state court on
+claims unrelated to any activity of the subsidiaries in the
+forum State?
+   A bus accident outside Paris that took the lives of two
+13-year-old boys from North Carolina gave rise to the liti
+gation we here consider.            Attributing the accident to a de
+fective tire manufactured in Turkey at the plant of a foreign
+subsidiary      of  The    Goodyear      Tire    and    Rubber      Company
+(Goodyear USA), the boys’ parents commenced an action for
+damages in a North Carolina state court; they named as de
+fendants Goodyear USA, an Ohio corporation, and three of
+its  subsidiaries, organized          and   operating,     respectively,      in
+Turkey, France, and Luxembourg.                   Goodyear USA, which
+had plants in North Carolina and regularly engaged in com
+mercial activity there, did not contest the North Carolina
+court’s jurisdiction over it; Goodyear USA’s foreign subsidi
+aries, however, maintained that North Carolina lacked adju
+dicatory authority over them.
+   A state court’s assertion of jurisdiction exposes defendants
+to the State’s coercive power, and is therefore subject to re
+view for compatibility with the Fourteenth Amendment’s
+Due Process Clause.            International       Shoe    Co.  v. Washing
+
+
+   *Briefs of amici curiae urging reversal were  led for the Chamber of
+Commerce of the United States of America by Peter B. Rutledge               and
+Robin S. Conrad; for the Organization for International Investment et al.
+by Carter G. Phillips and Marinn Carlson; for the Product Liability Advi
+sory Council, Inc., by Alan E. Untereiner; and for the Washington Legal
+Foundation et al. by Daniel J. Popeo and Cory L. Andrews.
+                         Cite as: 564 U. S. 915 (2011)                      919
+
+
+                             Opinion of the Court
+
+
+ton, 326 U. S. 310, 316 (1945) (assertion of jurisdiction over
+out-of-state corporation must comply with “ ‘traditional no
+tions of fair play and substantial justice’ ” (quoting Milliken
+v. Meyer,    311 U. S. 457, 463 (1940))).          Opinions in the wake
+of the pathmarking International Shoe decision have differ
+entiated between general or all-purpose jurisdiction, and
+speci c or case-linked          jurisdiction.     Helicopteros       Nacion
+ales de    Colombia, S. A.        v.  Hall,   466 U. S. 408, 414, nn. 8,
+9 (1984).
+   A   court    may     assert    general    jurisdiction     over    foreign
+(sister-state or foreign-country) corporations to hear any and
+all claims against them when their af liations with the State
+are so “continuous and systematic” as to render them essen
+tially at home in the forum State.              See International Shoe,
+326 U. S., at 317.        Speci c jurisdiction, on the other hand,
+depends on an “af liatio[n] between the forum and the under
+lying controversy,” principally, activity or an occurrence that
+takes place in the forum State and is therefore subject to the
+State’s regulation.         von Mehren & Trautman, Jurisdiction
+To Adjudicate: A Suggested Analysis, 79 Harv. L. Rev. 1121,
+1136 (1966) (hereinafter von Mehren & Trautman); see Bril
+mayer et al., A General Look at General Jurisdiction, 66
+Texas L. Rev. 721, 782 (1988) (hereinafter Brilmayer).                       In
+contrast to general, all-purpose jurisdiction, speci c jurisdic
+tion is con ned to adjudication of “issues deriving from, or
+connected with, the very controversy that establishes juris
+diction.”     von Mehren & Trautman 1136.
+   Because the episode-in-suit, the bus accident, occurred in
+France, and the tire alleged to have caused the accident was
+manufactured and sold abroad, North Carolina courts lacked
+specific jurisdiction to adjudicate the controversy.                      The
+North Carolina Court of Appeals so acknowledged.                       Brown
+v.  Meter,   199 N. C. App. 50, 57–58, 681 S. E. 2d 382, 388
+(2009).     Were the foreign subsidiaries nonetheless amenable
+to general jurisdiction in North Carolina courts?                 Confusing
+or blending general and speci c jurisdictional inquiries, the
+920       GOODYEAR DUNLOP TIRES OPERATIONS, S. A.
+                                 v. BROWN
+                            Opinion of the Court
+
+
+North Carolina courts answered yes.                   Some of the tires
+made abroad by Goodyear’s foreign subsidiaries, the North
+Carolina Court of Appeals stressed, had reached North Caro
+lina through “the stream of commerce”; that connection, the
+Court of Appeals believed, gave North Carolina courts the
+handle needed for the exercise of general jurisdiction over
+the foreign corporations.           Id.,  at 67–68, 681 S. E. 2d, at
+394–395.
+   A connection so limited between the forum and the for
+eign corporation, we hold, is an inadequate basis for the exer
+cise of general jurisdiction.         Such a connection does not es
+tablish the “continuous and systematic” af liation necessary
+to empower North Carolina courts to entertain claims unre
+lated to the foreign corporation’s contacts with the State.
+
+
+                                      I
+   On April 18, 2004, a bus destined for Charles de Gaulle
+Airport overturned on a road outside Paris, France.                     Pas
+sengers on the bus were young soccer players from North
+Carolina beginning their journey home.                 Two 13-year-olds,
+Julian Brown and Matthew Helms, sustained fatal injuries.
+The boys’ parents, respondents in this Court,  led a suit for
+wrongful-death damages in the Superior Court of Onslow
+County, North Carolina, in their capacity as administrators
+of the boys’ estates.        Attributing the accident to a tire that
+failed when its plies separated, the parents alleged negli
+gence in the “design, construction, testing, and inspection” of
+the tire.    199 N. C. App., at 51, 681 S. E. 2d, at 384 (internal
+quotation marks omitted).
+   Goodyear Luxembourg Tires, SA (Goodyear Luxembourg),
+Goodyear Lastikleri T. A. S. (Goodyear Turkey), and Good
+year Dunlop Tires France, SA (Goodyear France), petition
+ers here, were named as defendants.               Incorporated in Lux
+embourg, Turkey, and France, respectively, petitioners are
+indirect subsidiaries of Goodyear USA, an Ohio corporation
+also named as a defendant in the suit.             Petitioners manufac
+                          Cite as: 564 U. S. 915 (2011)                       921
+
+
+                             Opinion of the Court
+
+
+ture tires primarily for sale in European and Asian mar
+kets.    Their tires differ in size and construction from tires
+ordinarily sold in the United States.                They are designed to
+carry signi cantly heavier loads, and to serve under road
+conditions and speed limits in the manufacturers’ primary
+markets.1
+   In contrast to the parent company, Goodyear USA, which
+does not contest the North Carolina courts’ personal jurisdic
+tion over it, petitioners are not registered to do business in
+North Carolina.         They have no place of business, employees,
+or bank accounts in North Carolina.                   They do not design,
+manufacture, or advertise their products in North Carolina.
+And they do not solicit business in North Carolina or them
+selves sell or ship tires to North Carolina customers.                     Even
+so, a small percentage of petitioners’ tires (tens of thousands
+out of tens of millions manufactured between 2004 and 2007)
+were distributed within North Carolina by other Goodyear
+USA af liates.         These tires were typically custom ordered
+to equip specialized vehicles such as cement mixers, waste
+haulers,     and    boat   and    horse     trailers.    Petitioners      state,
+and respondents do not here deny, that the type of tire in
+volved in the accident, a Goodyear Regional RHS tire manu
+factured     by   Goodyear       Turkey,     was     never    distributed      in
+North Carolina.
+   Petitioners moved to dismiss the claims against them for
+want of personal jurisdiction.              The trial court denied the
+motion, and the North Carolina Court of Appeals af rmed.
+Acknowledging that the claims neither “related to, nor . . .
+ar[o]se from, [petitioners’] contacts with North Carolina,” the
+Court of Appeals con ned its analysis to “general rather
+
+
+   1 Respondents portray Goodyear USA’s structure as a reprehensible ef
+fort to “outsource” all manufacturing, and correspondingly, tort litigation,
+to foreign jurisdictions.    See Brief for Respondents 51–53.       Yet Turkey,
+where the tire alleged to have caused the accident-in-suit was made, is
+hardly a strange location for a facility that primarily supplies markets in
+Europe and Asia.
+922      GOODYEAR DUNLOP TIRES OPERATIONS, S. A.
+                                  v. BROWN
+                             Opinion of the Court
+
+
+than speci c jurisdiction,” which the court recognized re
+quired a “higher threshold” showing: A defendant must have
+“continuous and systematic contacts” with the forum.                        Id.,
+at 58, 681 S. E. 2d, at 388 (internal quotation marks omitted).
+That threshold was crossed, the court determined, when
+petitioners placed their tires “in the stream of interstate
+commerce without any limitation on the extent to which
+those tires could be sold in North Carolina.”                 Id., at 67, 681
+S. E. 2d, at 394.
+   Nothing in the record, the court observed, indicated that
+petitioners “took any af rmative action to cause tires which
+they had manufactured to be shipped into North Carolina.”
+Id., at 64, 681 S. E. 2d, at 392.            The court found, however,
+that tires made by petitioners reached North Carolina as a
+consequence of a “highly-organized distribution process” in
+volving other Goodyear USA subsidiaries.                     Id.,  at 67, 681
+S. E. 2d, at 394.       Petitioners, the court noted, made “no at
+tempt to keep these tires from reaching the North Carolina
+market.”      Id., at 66, 681 S. E. 2d, at 393.           Indeed, the very
+tire involved in the accident, the court observed, conformed
+to tire standards established by the U. S. Department of
+Transportation and bore markings required for sale in the
+United States.        Ibid.2     As further support, the court in
+voked North Carolina’s “interest in providing a forum in
+which its citizens are able to seek redress for [their] inju
+ries,” and noted the hardship North Carolina plaintiffs would
+experience “[were they] required to litigate their claims in
+France,” a country to which they have no ties.                     Id.,  at 68,
+681 S. E. 2d, at 394.          The North Carolina Supreme Court
+
+
+  2 Such markings do not necessarily show that any of the tires were des
+tined for sale in the United States.    To facilitate trade, the Solicitor Gen
+eral explained, the United States encourages other countries to “treat
+compliance   with   [Department    of  Transportation]    standards,  including
+through use of DOT markings, as evidence that the products are safely
+manufactured.”     Brief for United States as Amicus Curiae 32.
+                         Cite as: 564 U. S. 915 (2011)                      923
+
+
+                             Opinion of the Court
+
+
+denied discretionary review.            Brown v. Meter, 364 N. C. 128,
+695 S. E. 2d 756 (2010).
+   We granted certiorari to decide whether the general juris
+diction the North Carolina courts asserted over petitioners
+is consistent with the Due Process Clause of the Fourteenth
+Amendment.          561 U. S. 1058 (2010).
+
+
+                                      II
+                                       A
+   The Due Process Clause of the Fourteenth Amendment
+sets the outer boundaries of a state tribunal’s authority to
+proceed against a defendant.             Shaffer v. Heitner,        433 U. S.
+186, 207 (1977).       The canonical opinion in this area remains
+International       Shoe, 326 U. S. 310, in which we held that a
+State may authorize its courts to exercise personal jurisdic
+tion over an out-of-state defendant if the defendant has “cer
+tain minimum contacts with [the State] such that the mainte
+nance of the suit does not offend ‘traditional notions of fair
+play and substantial justice.’ ”           Id., at 316 (quoting       Meyer,
+311 U. S., at 463).
+   Endeavoring to give speci c content to the “fair play and
+substantial justice” concept, the Court in International Shoe
+classi ed cases involving out-of-state corporate defendants.
+First, as in     International       Shoe   itself, jurisdiction unques
+tionably could be asserted where the corporation’s in-state
+activity is “continuous and systematic” and                   that   activity
+gave rise to the episode-in-suit.           326 U. S., at 317.      Further,
+the Court observed, the commission of certain “single or oc
+casional acts” in a State may be suf cient to render a corpo
+ration answerable in that State with respect to those acts,
+though not with respect to matters unrelated to the forum
+connections.       Id., at 318.     The heading courts today use to
+encompass these two International Shoe categories is “spe
+ci c jurisdiction.”       See von Mehren & Trautman 1144–1163.
+Adjudicatory authority is “speci c” when the suit “aris[es]
+924      GOODYEAR DUNLOP TIRES OPERATIONS, S. A.
+                                v. BROWN
+                            Opinion of the Court
+
+
+out   of  or  relate[s]    to  the   defendant’s      contacts    with    the
+forum.”     Helicopteros, 466 U. S., at 414, n. 8.
+  International         Shoe distinguished from cases that fit
+within the “speci c jurisdiction” categories, “instances in
+which the continuous corporate operations within a state
+[are] so substantial and of such a nature as to justify suit
+against it on causes of action arising from dealings entirely
+distinct from those activities.”            326 U. S.,     at 318.     Adju
+dicatory authority so grounded is today called “general ju
+risdiction.”     Helicopteros,     466 U. S., at 414, n. 9.          For an
+individual, the paradigm forum for the exercise of general
+jurisdiction is the individual’s domicile; for a corporation,
+it is an equivalent place, one in which the corporation is
+fairly regarded as at home.             See Brilmayer 728 (identify
+ing domicile, place of incorporation, and principal place of
+business as “paradig[m]” bases for the exercise of general
+jurisdiction).
+  Since International Shoe, this Court’s decisions have elab
+orated primarily on circumstances that warrant the exercise
+of speci c jurisdiction, particularly in cases involving “single
+or occasional acts” occurring or having their impact within
+the forum State.        As a rule in these cases, this Court has
+inquired whether there was “some act by which the defend
+ant purposefully avail[ed] itself of the privilege of conduct
+ing activities within the forum State, thus invoking the bene
+ ts and protections of its laws.”             Hanson     v.  Denckla,     357
+U. S. 235, 253 (1958).         See,   e. g., World-Wide       Volkswagen
+Corp.   v. Woodson, 444 U. S. 286, 287, 297 (1980) (Oklahoma
+court may not exercise personal jurisdiction “over a nonresi
+dent automobile retailer          and    its  wholesale     distributor     in
+a products-liability action, when the defendants’ only con
+nection with Oklahoma is the fact that an automobile sold in
+New York to New York residents became involved in an acci
+dent in Oklahoma”);        Burger     King    Corp.   v.  Rudzewicz,      471
+U. S. 462, 474–475 (1985) (franchisor headquartered in Flor
+                        Cite as: 564 U. S. 915 (2011)                      925
+
+
+                            Opinion of the Court
+
+
+ida may maintain breach-of-contract action in Florida against
+Michigan franchisees, where agreement contemplated ongo
+ing interactions between franchisees and franchisor’s head
+quarters);    Asahi    Metal    Industry     Co.  v.  Superior     Court    of
+Cal.,  Solano Cty.,     480 U. S. 102, 105 (1987) (Taiwanese tire
+manufacturer settled product liability action brought in Cali
+fornia and sought indemni cation there from Japanese valve
+assembly manufacturer; Japanese company’s “mere aware
+ness . . . that the components it manufactured, sold, and de
+livered outside the United States would reach the forum
+State in the stream of commerce” held insuf cient to permit
+California court’s adjudication of Taiwanese company’s
+cross-complaint);      id., at 109 (opinion of O’Connor, J.); id., at
+116–117 (Brennan, J., concurring in part and concurring in
+judgment).       See also Twitchell, The Myth of General Juris
+diction, 101 Harv. L. Rev. 610, 628 (1988) (in the wake of
+International       Shoe,   “speci c jurisdiction has become the
+centerpiece of modern jurisdiction theory, while general ju
+risdiction plays a reduced role”).
+   In only two decisions postdating International Shoe, dis
+cussed infra, at 927–929, has this Court considered whether
+an out-of-state corporate defendant’s in-state contacts were
+suf ciently “continuous and systematic” to justify the exer
+cise of general jurisdiction over claims unrelated to those
+contacts: Perkins v.       Benguet     Consol. Mining        Co., 342 U. S.
+437 (1952) (general jurisdiction appropriately exercised over
+Philippine corporation sued in Ohio, where the company’s
+affairs were overseen during World War II); and                    Helicop
+teros, 466 U. S. 408 (helicopter owned by Colombian corpora
+tion crashed in Peru; survivors of U. S. citizens who died in
+the crash, the Court held, could not maintain wrongful-death
+actions against the Colombian corporation in Texas, for the
+corporation’s helicopter purchases and purchase-linked activ
+ity in Texas were insuf cient to subject it to Texas court’s
+general jurisdiction).
+926       GOODYEAR DUNLOP TIRES OPERATIONS, S. A.
+                                  v. BROWN
+                             Opinion of the Court
+
+
+                                       B
+   To justify the exercise of general jurisdiction over peti
+tioners, the North Carolina courts relied on the petitioners’
+placement of their tires in the “stream of commerce.”                       See
+supra,    at 921–923.       The stream-of-commerce metaphor has
+been invoked frequently in lower court decisions permitting
+“jurisdiction in products liability cases in which the product
+has traveled through an extensive chain of distribution be
+fore reaching the ultimate consumer.”                 18 W. Fletcher, Cy
+clopedia of the Law of Corporations § 8640.40, p. 133 (rev.
+ed. 2007).      Typically, in such cases, a nonresident defendant,
+acting outside the forum, places in the stream of commerce a
+product that ultimately causes harm inside the forum.                       See
+generally Dayton, Personal Jurisdiction and the Stream of
+Commerce, 7 Rev. Litigation 239, 262–268 (1988) (discussing
+origins and evolution of the stream-of-commerce doctrine).
+   Many States have enacted long-arm statutes authorizing
+courts to exercise speci c jurisdiction over manufacturers
+when the events in suit, or some of them, occurred within
+the forum state.         For example, the “Local Injury; Foreign
+Act” subsection of North Carolina’s long-arm statute author
+izes North Carolina courts to exercise personal jurisdiction
+in “any action claiming injury to person or property within
+this State arising out of [the defendant’s] act or omission out
+side this State,” if, “in addition[,] at or about the time of the
+injury,” “[p]roducts . . . manufactured by the defendant were
+used or consumed, within this State in the ordinary course3
+of trade.”      N. C. Gen. Stat. Ann. § 1–75.4(4)(b) (Lexis 2009).
+As the North Carolina Court of Appeals recognized, this pro
+vision of the State’s long-arm statute “does not apply to this
+case,” for both the act alleged to have caused injury (the
+fabrication of the allegedly defective tire) and its impact (the
+  3 Cf. D. C. Code § 13–423(a)(4) (2001) (providing for speci c jurisdiction
+over defendant who “caus[es] tortious injury in the [forum] by an act or
+omission outside the [forum]” when, in addition, the defendant “derives
+substantial revenue from goods used or consumed . . . in the [forum]”).
+                          Cite as: 564 U. S. 915 (2011)                         927
+
+
+                              Opinion of the Court
+
+
+accident) occurred outside the forum.                   See 199 N. C. App.,
+at 61, n. 6, 681 S. E. 2d, at 390, n. 6.4
+   The North Carolina court’s stream-of-commerce analysis
+elided the essential difference between case-speci c and                       all-
+purpose (general) jurisdiction.               Flow of a manufacturer’s
+products into the forum, we have explained, may bolster
+an   af liation     germane       to  speci c     jurisdiction.       See,   e. g.,
+World-Wide       Volkswagen,        444 U. S., at 297 (where “the sale
+of a product . . . is not simply an isolated occurrence, but
+arises from the efforts of the manufacturer or distributor to
+serve . . . the market for its product in [several] States, it is
+not unreasonable to subject it to suit in one of those States
+if its allegedly defective merchandise                  has    there   been    the
+source of injury to its owner or to others” (emphasis added)).
+But ties serving to bolster the exercise of speci c jurisdiction
+do not warrant a determination that, based on those ties, the
+forum has      general    jurisdiction over a defendant.               See,  e. g.,
+Stabilisierungsfonds          Fur    Wein     v. Kaiser     Stuhl    Wine    Dis
+tributors     Pty.   Ltd.,   647 F. 2d 200, 203, n. 5 (CADC 1981)
+(defendants’ marketing arrangements, although “adequate to
+permit litigation of claims relating to [their] introduction of
+. . . wine into the United States stream of commerce, . . .
+would not be adequate to support general, ‘all purpose’ adju
+dicatory authority”).
+   A corporation’s “continuous activity of some sorts within
+a state,”    International Shoe           instructed, “is not enough to
+support the demand that the corporation be amenable to
+suits unrelated to that activity.”                326 U. S., at 318.          Our
+  4 The court instead relied on N. C. Gen. Stat. Ann. § 1–75.4(1)(d), see 199
+N. C. App., at 57, 681 S. E. 2d, at 388, which provides for jurisdiction,
+“whether the claim arises within or without [the] State,” when the defend
+ant “[i]s engaged in substantial activity within this State, whether such
+activity is wholly interstate, intrastate, or otherwise.”         This provision,
+the North Carolina Supreme Court has held, was “intended to make avail
+able to the North Carolina courts the full jurisdictional powers permissible
+under federal due process.”       Dillon   v. Numismatic Funding Corp.,         291
+N. C. 674, 676, 231 S. E. 2d 629, 630 (1977).
+928       GOODYEAR DUNLOP TIRES OPERATIONS, S. A.
+                                 v. BROWN
+                            Opinion of the Court
+
+
+1952 decision in      Perkins v. Benguet        Consol. Mining Co. re
+mains “[t]he textbook case of general jurisdiction appropri
+ately exercised over a foreign corporation that has not con
+sented to suit in the forum.”           Donahue v. Far Eastern Air
+Transport Corp., 652 F. 2d 1032, 1037 (CADC 1981).
+   Sued in Ohio, the defendant in            Perkins    was a Philippine
+mining corporation that had ceased activities in the Philip
+pines during World War II.            To the extent that the company
+was conducting any business during and immediately after
+the Japanese occupation of the Philippines, it was doing so
+in Ohio: The corporation’s president maintained his of ce
+there, kept the company  les in that of ce, and supervised
+from the Ohio of ce “the necessarily limited wartime activi
+ties of the company.”         342 U. S., at 447–448.         Although the
+claim-in-suit did not arise in Ohio, this Court ruled that it
+would not violate due process for Ohio to adjudicate the con
+troversy.     Ibid.; see Keeton       v. Hustler Magazine, Inc.,          465
+U. S. 770, 779–780, n. 11 (1984) (Ohio’s exercise of general
+jurisdiction was permissible in Perkins because “Ohio was
+the corporation’s principal, if temporary, place of business”).
+   We next addressed the exercise of general jurisdiction
+over an out-of-state corporation over three decades later,
+in  Helicopteros.       In that case, survivors of United States
+citizens who died in a helicopter crash in Peru instituted
+wrongful-death actions in a Texas state court against the
+owner and operator of the helicopter, a Colombian corpora
+tion.    The Colombian corporation had no place of business
+in Texas and was not licensed to do business there.                   “Basi
+cally, [the company’s] contacts with Texas consisted of send
+ing its chief executive of cer to Houston for a contract-
+negotiation session; accepting into its New York bank
+account checks drawn on a Houston bank; purchasing helicop
+ters, equipment, and training services from [a Texas enter
+prise] for substantial sums; and sending personnel to [Texas]
+for training.”      466 U. S., at 416.       These links to Texas, we
+determined, did not “constitute the kind of continuous and
+                          Cite as: 564 U. S. 915 (2011)                       929
+
+
+                              Opinion of the Court
+
+
+systematic general business contacts . . . found to exist in
+Perkins,” and were insuf cient to support the exercise of
+jurisdiction over a claim that neither “ar[o]se out of . . . no[r]
+related to” the defendant’s activities in Texas.                  Id., at 415–
+416 (internal quotation marks omitted).
+   Helicopteros concluded that “mere purchases [made in the
+forum State], even if occurring at regular intervals, are not
+enough to warrant a State’s assertion of [general] jurisdic
+tion over a nonresident corporation in a cause of action not
+related to those purchase transactions.”                   Id.,  at 418.      We
+see no reason to differentiate from the ties to Texas held
+insuf cient in Helicopteros, the sales of petitioners’ tires spo
+radically made in North Carolina through intermediaries.
+Under the sprawling view of general jurisdiction urged by
+respondents and embraced by the North Carolina Court of
+Appeals, any substantial manufacturer or seller of goods
+would be amenable to suit, on any claim for relief, wherever
+its  products are        distributed.       But   cf.  World-Wide        Volks
+wagen, 444 U. S., at 296 (every seller of chattels does not, by
+virtue of the sale, “appoint the chattel his agent for service
+of process”).
+   Measured against Helicopteros and Perkins, North Caro
+lina is not a forum in which it would be permissible to subject
+petitioners to general jurisdiction.              Unlike the defendant in
+Perkins,     whose      sole   wartime      business     activity    was    con
+ducted in Ohio, petitioners are in no sense at home in North
+Carolina.      Their attenuated connections to the State, see
+supra, at 921, fall far short of the “the continuous and sys
+tematic general business contacts” necessary to empower
+North Carolina to entertain suit against them on claims un
+related to anything that connects them to the State.                       Heli
+copteros, 466 U. S., at 416.5
+
+
+   5 As earlier noted, see supra, at 922, the North Carolina Court of Appeals
+invoked the State’s “well-recognized interest in providing a forum in
+which its citizens are able to seek redress for injuries that they have sus
+tained.”    199 N. C. App., at 68, 681 S. E. 2d, at 394.   But “[g]eneral juris
+930        GOODYEAR DUNLOP TIRES OPERATIONS, S. A.
+                                     v. BROWN
+                               Opinion of the Court
+
+
+                                           C
+   Respondents belatedly assert a “single enterprise” theory,
+asking us to consolidate petitioners’ ties to North Carolina
+with those of Goodyear USA and other Goodyear entities.
+See Brief for Respondents 44–50.                      In effect, respondents
+would have us pierce Goodyear corporate veils, at least for
+jurisdictional purposes.             See Brilmayer & Paisley, Personal
+Jurisdiction and Substantive Legal Relations: Corporations,
+Conspiracies, and Agency, 74 Cal. L. Rev. 1, 14, 29–30 (1986)
+(merging parent and subsidiary for jurisdictional purposes
+requires an inquiry “comparable to the corporate law ques
+tion of piercing the corporate veil”).                But see 199 N. C. App.,
+at 64, 681 S. E. 2d, at 392 (North Carolina Court of Appeals
+understood that petitioners are “separate corporate entities
+. . . not directly responsible for the presence in North Caro
+lina of tires that they had manufactured”).                        Neither below
+nor in their brief in opposition to the petition for certiorari
+did respondents urge disregard of petitioners’ discrete sta
+tus as subsidiaries and treatment of all Goodyear entities as
+a “unitary business,” so that jurisdiction over the parent
+would draw in the subsidiaries as well.6                    Brief for Respond-
+
+
+diction to adjudicate has in [United States] practice never been based on
+the plaintiff ’s relationship to the forum.         There is nothing in [our] law
+comparable to . . . article 14 of the Civil Code of France (1804) under which
+the French nationality of the plaintiff is a suf cient ground for jurisdic
+tion.”   von Mehren & Trautman 1137; see Clermont & Palmer, Exorbitant
+Jurisdiction, 58 Me. L. Rev. 474, 492–495 (2006) (French law permitting
+plaintiff-based jurisdiction is rarely invoked in the absence of other sup
+porting factors).     When a defendant’s act outside the forum causes injury
+in  the   forum,   by   contrast,   a plaintiff ’s residence    in  the   forum   may
+strengthen the case for the exercise of speci c jurisdiction.             See  Calder
+v. Jones, 465 U. S. 783, 788 (1984); von Mehren & Trautman 1167–1173.
+   6 In the brief they  led in the North Carolina Court of Appeals, respond
+ents stated that petitioners were part of “integrated world-wide efforts
+to design, manufacture, market and sell their           tires in the United States,
+including in North Carolina.”        App. 485 (emphasis added).        See also Brief
+in Opposition 18.      Read in context, that assertion was offered in support
+of a narrower proposition: The distribution of petitioners’ tires in North
+                            Cite as: 564 U. S. 915 (2011)                            931
+
+
+                                Opinion of the Court
+
+
+ents 44.       Respondents have therefore forfeited this conten
+tion, and we do not address it.                      This Court’s Rule 15.2;
+Granite Rock         Co. v.   Teamsters,       561 U. S. 287, 306 (2010).
+                                   *       *       *
+   For the reasons stated, the judgment of the North Caro
+lina Court of Appeals is
+                                                                          Reversed.
+
+
+Carolina, respondents maintained, demonstrated petitioners’ own “calcu
+lated and deliberate efforts to take advantage of the North Carolina mar
+ket.”   App. 485.     As already explained, see supra, at 929, even regularly
+occurring sales of a product in a State do not justify the exercise of juris
+diction over a claim unrelated to those sales.
