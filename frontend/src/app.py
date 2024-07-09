@@ -1,6 +1,7 @@
 import streamlit as st
 import time
 import os
+import json
 
 from utils import utils
 
@@ -61,6 +62,7 @@ if prompt := st.chat_input("What do you want to know?"):
     # Generate the response
     with st.spinner("Generating response..."):
         start_time = time.time()
+        prompt = json.dumps([{"role": m["role"], "content": m["content"]} for m in st.session_state.messages])
         generator_response = utils.generator.generate_response(prompt)
         end_time = time.time()
     st.success(f"Time taken: {end_time - start_time} seconds")

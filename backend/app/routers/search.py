@@ -1,4 +1,5 @@
 import json
+import re
 from fastapi import APIRouter, Depends, Request, BackgroundTasks
 from fastapi.responses import JSONResponse
 
@@ -18,8 +19,18 @@ router = APIRouter(
 @router.post('/search/')
 async def search(api_key: str, query: str, query_level: str, max_results: str, background_tasks: BackgroundTasks):
     try:
+        print(query)
+        single_quotes = re.compile('(?<!\\\\)\'')
+        prompt = single_quotes.sub('\"', query)
+        double_quotes = re.compile('(?<!\\\\)\"')
+        prompt = double_quotes.sub('\"', prompt)
+        #print(query_)
+        query_list_dict = json.loads(prompt)
+        print(type(query_list_dict[-1]))
+        current_query = query_list_dict[-1]["content"]
+
         query_ = addQuery(
-            query=query,
+            query=current_query,
             api_key=api_key,
             query_level=int(query_level),
             max_results=int(max_results)
@@ -46,7 +57,7 @@ async def search(api_key: str, query: str, query_level: str, max_results: str, b
 
             #json_response = jsonify_results(query_response.results)
 
-            response = await perform_generation(query_, query_response.results)
+            response = await perform_generation(query_list_dict, query_response.results)
 
             return JSONResponse(content={"response": response.response, "results": response.citations}, status_code=200)
         else:

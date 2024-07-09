@@ -72,12 +72,12 @@ def get_system_prompt(api_key: str) -> str:
             status_code=500, detail="There was an error while getting the system prompt."
         )
 
-async def perform_generation(query_: addQuery, results: List[ResultSchema]) -> generatedSchema:
+async def perform_generation(query_list_dict: list[dict], results: List[ResultSchema]) -> generatedSchema:
     llm_provider = get_llm_provider()
 
     try:
         print("Generating response...")
-        generated_response = await llm_provider.generate(query_.query, results)
+        generated_response = await llm_provider.generate(query_list_dict, results)
 
         return generated_response
     except Exception:
