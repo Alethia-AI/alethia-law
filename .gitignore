@@ -1,4 +1,6 @@
 **/.venv
 **/.env
-app/.env
 **/__pycache__
+
+backend/app/.env
+backend/run.py

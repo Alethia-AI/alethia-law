@@ -1,8 +1,8 @@
 import requests
 
 import os
-
-backend_url = os.getenv("BACKEND_URL")
+BACKEND_URL="https://alethia-law.onrender.com"
+backend_url = BACKEND_URL
 
 # TODO: Upload cases to the backend, instead of sending links
 def upload_case(name: str, case_path: str): 

@@ -1,10 +1,9 @@
 import requests
 import re
 
-import os
 
-
-backend_url = os.getenv("BACKEND_URL")  # Get the backend URL from the environment variables
+BACKEND_URL="https://alethia-law.onrender.com"
+backend_url = BACKEND_URL
 
 def generate_response(username: str, prompt: str):
     try:
