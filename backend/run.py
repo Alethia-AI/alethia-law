@@ -4,7 +4,7 @@ import uvicorn
 import nest_asyncio
 nest_asyncio.apply()
 
-HOST_NAME = "127.0.0.1"#"0.0.0.0"
+HOST_NAME = "0.0.0.0"#"127.0.0.1"
 PORT = 5001
 
 if __name__ == "__main__":
