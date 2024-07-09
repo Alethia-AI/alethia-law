@@ -50,7 +50,7 @@ def get_llm_provider() -> LLMProvider:
                 detail="Invalid llm provider. Please set the LLM_PROVIDER environment variable to either 'anthropic' or 'openai'.",
             )
 
-def change_system_prompt(api_key: str, prompt: str) -> str:
+def change_system_prompt(api_key: str, prompt: str) -> bool:
     llm_provider = get_llm_provider()
 
     try:

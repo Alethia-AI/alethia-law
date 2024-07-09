@@ -96,8 +96,21 @@ class AnthropicLLMProvider(LLMProvider):
             )
     
     def get_system_prompt(self) -> str:
-        return self.SYSTEM_PROMPT
+        try:
+            return self.SYSTEM_PROMPT
+        except Exception as e:
+            raise HTTPException(
+                status_code=500,
+                detail="There was an error while getting the system prompt.",
+            )
         
-    def change_system_prompt(self, prompt: str) -> str:
-        self.SYSTEM_PROMPT = prompt
-        return "System prompt changed successfully."
+    def change_system_prompt(self, prompt: str) -> bool:
+        try:
+            self.SYSTEM_PROMPT = prompt
+            return True
+        except Exception as e:
+            raise HTTPException(
+                status_code=500,
+                detail="There was an error while changing the system prompt.",
+            )
+            return False

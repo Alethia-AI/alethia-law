@@ -1,22 +1,10 @@
 import streamlit as st
-import generation.response_generator as generator
-from archive import build_archive
-
 import time
 import os
 
+from utils import utils
 
-#st.title("!")
-
-# Text box to enter the user's name
-#user_name = st.text_input("Enter your name", key="name")
-user_name = "Oliver"
-
-# Assuming you want to save files in a directory named 'uploaded_cases' in the current working directory
-save_dir = 'uploaded_cases'
-if not os.path.exists(save_dir):
-    os.makedirs(save_dir)
-
+### CHAT_INTERFACE ###
 with st.expander("**ARCHIVE**", expanded=True):
 
     case = st.file_uploader("Upload case", type=["pdf", "docx", "txt", "md"])
@@ -24,13 +12,13 @@ with st.expander("**ARCHIVE**", expanded=True):
         try:
             if case is not None:
                 # Construct the full path where you want to save the file
-                file_path = os.path.join(save_dir, case.name)
+                file_path = os.path.join(utils.save_dir, case.name)
                 
                 # Open the file in write-binary mode and save the content
                 with open(file_path, "wb") as f:
                     f.write(case.getbuffer())
                 
-                response = build_archive.upload_case(user_name, file_path)
+                response = utils.archive.upload_case(file_path)
                 st.write(response + ". It may take upto 5 minutes for the case to be processed in the archive.")
         except Exception as e:
             st.write(f"Error: {e}")
@@ -41,16 +29,17 @@ with st.expander("**ARCHIVE**", expanded=True):
     #if st.button("Clear Archive", key="clear"):
     #    build_archive.clear_archive()
     
-
 with st.expander("**PROMPT**", expanded=True):
     # Have a textbox that allows the user to enter a prompt
     system_prompt = st.text_area(
                             "SYSTEM_PROMPT",
-                            value=generator.get_system_prompt(user_name), 
+                            value=utils.generator.get_system_prompt(), 
                             key="prompt")
     if st.button("Submit", key="submit"):
-        generator.change_system_prompt(user_name, system_prompt)
-        st.write("System prompt has been updated.")
+        if utils.generator.change_system_prompt(system_prompt):
+            st.write("System prompt has been updated.")
+        else:
+            st.write("Error in updating system prompt.")
 
 # initialize history
 if "messages" not in st.session_state:
@@ -72,7 +61,7 @@ if prompt := st.chat_input("What do you want to know?"):
     # Generate the response
     with st.spinner("Generating response..."):
         start_time = time.time()
-        generator_response = generator.generate_response(user_name, prompt)
+        generator_response = utils.generator.generate_response(prompt)
         end_time = time.time()
     st.success(f"Time taken: {end_time - start_time} seconds")
     with st.chat_message("assistant"):
