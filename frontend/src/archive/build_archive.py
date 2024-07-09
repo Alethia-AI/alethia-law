@@ -1,7 +1,8 @@
 import requests
 
 import os
-BACKEND_URL="https://alethia-law.onrender.com"
+#BACKEND_URL="https://alethia-law.onrender.com"
+BACKEND_URL="http://localhost:5001"
 backend_url = BACKEND_URL
 
 # TODO: Upload cases to the backend, instead of sending links

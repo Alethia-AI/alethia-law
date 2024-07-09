@@ -41,7 +41,7 @@ def respond_to_search(query: addQuery) -> ResponseSchema:
                 embedding = prompt_embedding(query.query)
                 #print(embedding)
                 query_response = perform_archive_search(query, embedding, metric=METRIC)
-                print(query_response)
+                #print(query_response)
             else:
                 raise HTTPException(
                         status_code=500, detail="Invalid query order: 0 is for web search and 1 is for local archive search."

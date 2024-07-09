@@ -5,7 +5,7 @@ from fastapi.responses import JSONResponse
 from ..workers.search.service import respond_to_search
 from ..workers.search.utils import add_to_queries, add_to_results, jsonify_results
 from ..workers.search.rerank import rerank
-from ..workers.generation.service import perform_generation, jsonify_generated_response, change_system_prompt
+from ..workers.generation.service import perform_generation, jsonify_generated_response, change_system_prompt, get_system_prompt
 
 from ..schema.search import ResponseSchema, addQuery
 
@@ -54,6 +54,15 @@ async def search(api_key: str, query: str, query_level: str, max_results: str, b
     except Exception as e:
         print(e)
         return JSONResponse(content={"message": "There was an error while searching: " + str(e)}, status_code=400)
+
+@router.get('/get-system-prompt/')
+async def get_prompt(api_key: str):
+    try:
+        response = get_system_prompt(api_key)
+        return JSONResponse(content={"response": response}, status_code=200)
+    except Exception as e:
+        return JSONResponse(content={"message": "There was an error while getting the system prompt: " + str(e)}, status_code=400)
+
 
 @router.post('/change-system-prompt/')
 async def change_prompt(api_key: str, prompt: str):

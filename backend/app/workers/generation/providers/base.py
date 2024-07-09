@@ -12,3 +12,6 @@ class LLMProvider(ABC):
 
     def change_system_prompt(prompt) -> bool:
         pass
+
+    def get_system_prompt() -> str:
+        pass

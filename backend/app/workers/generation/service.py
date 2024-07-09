@@ -61,6 +61,17 @@ def change_system_prompt(api_key: str, prompt: str) -> str:
             status_code=500, detail="There was an error while changing the system prompt."
         )
 
+def get_system_prompt(api_key: str) -> str:
+    llm_provider = get_llm_provider()
+
+    try:
+        response = llm_provider.get_system_prompt()
+        return response
+    except Exception:
+        raise HTTPException(
+            status_code=500, detail="There was an error while getting the system prompt."
+        )
+
 async def perform_generation(query_: addQuery, results: List[ResultSchema]) -> generatedSchema:
     llm_provider = get_llm_provider()
 

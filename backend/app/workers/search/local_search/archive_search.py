@@ -22,7 +22,7 @@ def search_embeddings(api_key, embedding, metric, top_k=10, min_similarity_score
     print(f"Searching embeddings with metric {metric}")
     try:
         res = supabase.rpc(metric2function[metric], {
-            #'api_key': api_key,
+            'api_key': api_key,
             'query_embedding': embedding,
             'match_count': top_k,
             'match_threshold': min_similarity_score,

@@ -3,6 +3,8 @@ from pydantic import BaseModel, ConfigDict
 from pydantic.fields import Field
 from typing import List, Optional
 
+from datetime import date
+
 class addQuery(BaseModel):
     query: str
     api_key: str
@@ -33,7 +35,7 @@ class ResultSchema(BaseModel):
     relevance_score: float
     case_id: int
     case_name: str
-    case_date: str
+    case_date: date
     page_id: str
     page_number: int
     section_type: str
