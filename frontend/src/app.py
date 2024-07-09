@@ -43,8 +43,9 @@ with st.expander("**PROMPT**", expanded=True):
             st.write("Error in updating system prompt.")
 
 # initialize history
-if "messages" not in st.session_state:
+if "messages" not in st.session_state or "prompts" not in st.session_state:
     st.session_state.messages = []
+    st.session_state.prompts = []
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
@@ -53,6 +54,7 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 if prompt := st.chat_input("What do you want to know?"):
+    # Make sure that there are no double quotes in the prompt
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
@@ -60,9 +62,12 @@ if prompt := st.chat_input("What do you want to know?"):
         with st.spinner("Searching the archive..."):
             time.sleep(2)
     # Generate the response
+    prompt = prompt.replace('"', "")
+    prompt = prompt.replace('\'', "")
+    st.session_state.prompts.append({"role": "user", "content": prompt})
     with st.spinner("Generating response..."):
         start_time = time.time()
-        prompt = json.dumps([{"role": m["role"], "content": m["content"]} for m in st.session_state.messages])
+        prompt = json.dumps([{"role": m["role"], "content": m["content"]} for m in st.session_state.prompts])
         generator_response = utils.generator.generate_response(prompt)
         end_time = time.time()
     st.success(f"Time taken: {end_time - start_time} seconds")
@@ -75,4 +80,7 @@ if prompt := st.chat_input("What do you want to know?"):
         st.write(
             message
         )
+        message_prompts = message.replace('"', "")
+        message_prompts = message.replace('\'', "")
     st.session_state.messages.append({"role": "assistant", "content": message})
+    st.session_state.prompts.append({"role": "assistant", "content": message_prompts})
