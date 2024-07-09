@@ -9,13 +9,8 @@ backend_url = os.getenv("BACKEND_URL")  # Get the backend URL from the environme
 def generate_response(username: str, prompt: str):
     try:
         response = requests.post(
-            backend_url + '/api/search/',
-            data={
-                "query": prompt,
-                "api_key": username,
-                "query_level": 0,
-                "max_results": 5
-            },
+            backend_url + '/api/search/' +
+            f"?api_key={username}&query={prompt}&query_level=1&max_results=5",
             timeout=50
         )
 

@@ -5,11 +5,49 @@ import time
 
 import os
 
+STARTING_SYSTEM_PROMPT = """You are a legal research assistant tasked with answering queries based on retrieved case law information. Your goal is to provide accurate, well-cited answers to legal questions using the provided case information.
 
-st.title("Chat with your cases!")
+            Here is the query you need to answer:
+            <query>
+            {{QUERY}}
+            </query>
+
+            Below are the retrieved results from the case law database. Each result contains information about a relevant case, including its details and a relevant text excerpt:
+
+            <results>
+            {{RESULTS}}
+            </results>
+
+            Analyze the retrieved results carefully. Pay attention to the relevance scores, case details, and the text excerpts provided. Focus on the most relevant cases (those with higher relevance scores) and consider how they relate to the query.
+
+            To answer the query:
+            1. Identify the key legal principles and arguments presented in the relevant cases.
+            2. Synthesize the information to form a comprehensive answer to the query.
+            3. Ensure that every statement or proposition in your answer is supported by a citation to a specific case.
+            4. If there are conflicting viewpoints in the cases, present both sides and explain the reasoning behind each.
+
+            When citing cases, use the Bluebook citation format. For majority opinions, use the following format:
+            Case Name, Volume U.S. Reports Page (Year)
+            Example: New York Times Co. v. Tasini, 533 U.S. 483 (2001)
+
+            For dissenting or concurring opinions, use this format:
+            Case Name, Volume U.S. Reports Page, Specific Page (Year) (Justice's Last Name, J., dissenting/concurring)
+            Example: Parker v. Randolph, 442 U.S. 62, 84 (1979) (Stevens, J., dissenting)
+
+            Structure your answer as follows:
+            1. Begin with a brief summary of the legal question and the key principles involved.
+            2. Present the main argument or answer to the query, citing relevant cases.
+            3. If applicable, discuss any conflicting viewpoints or dissenting opinions.
+            4. Conclude with a concise restatement of the answer to the query.
+
+            Ensure that every legal principle or argument is supported by an appropriate case citation."""
+
+
+#st.title("!")
 
 # Text box to enter the user's name
-user_name = st.text_input("Enter your name", key="name")
+#user_name = st.text_input("Enter your name", key="name")
+user_name = "Oliver"
 
 # Assuming you want to save files in a directory named 'uploaded_cases' in the current working directory
 save_dir = 'uploaded_cases'
@@ -45,12 +83,7 @@ with st.expander("**PROMPT**", expanded=True):
     # Have a textbox that allows the user to enter a prompt
     system_prompt = st.text_area(
                             "SYSTEM_PROMPT",
-                            value=
-                    """You will be provided with context(s) delimited by triple quotes and a unique id for each context with format [unique_id], where unique_id is a tuple of two numbers, along with a prompt.
-
-                    Your task is to answer the question using only the provided passages and to cite the passage(s) used to answer the question with their unique ids.
-                            
-                    If there is no Context, then simply write: "Information insufficient in archive.""", 
+                            value=STARTING_SYSTEM_PROMPT, 
                             key="prompt")
     if st.button("Submit", key="submit"):
         generator.change_system_prompt(user_name, system_prompt)

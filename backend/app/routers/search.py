@@ -16,8 +16,14 @@ router = APIRouter(
 )
 
 @router.post('/search/')
-async def search(query_: addQuery, background_tasks: BackgroundTasks):
+async def search(api_key: str, query: str, query_level: str, max_results: str, background_tasks: BackgroundTasks):
     try:
+        query_ = addQuery(
+            query=query,
+            api_key=api_key,
+            query_level=int(query_level),
+            max_results=int(max_results)
+            )
         print(query_)
         prompt = query_.query
         if not prompt:
@@ -38,13 +44,11 @@ async def search(query_: addQuery, background_tasks: BackgroundTasks):
             # Add the results to the database
             background_tasks.add_task(background_task, query_, query_response.results)
 
-            json_response = jsonify_results(query_response.results)
+            #json_response = jsonify_results(query_response.results)
 
-            #response = await perform_generation(query_, query_response.results)
+            response = await perform_generation(query_, query_response.results)
 
-            #json_response = await jsonify_generated_response(response)
-
-            return JSONResponse(content={"message": json_response}, status_code=200)
+            return JSONResponse(content={"response": response.response}, status_code=200)
         else:
             return 404
     except Exception as e:
