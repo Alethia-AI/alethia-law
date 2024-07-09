@@ -87,6 +87,7 @@ with st.expander("**PROMPT**", expanded=True):
                             key="prompt")
     if st.button("Submit", key="submit"):
         generator.change_system_prompt(user_name, system_prompt)
+        st.write("System prompt has been updated.")
 
 # initialize history
 if "messages" not in st.session_state:

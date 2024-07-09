@@ -11,10 +11,7 @@ from .base import LLMProvider
 from ....schema.search import ResultSchema, generatedSchema
 
 
-class AnthropicLLMProvider(LLMProvider):
-    def __init__(self, api_key: str):
-        self.client = anthropic.Anthropic(api_key=api_key)
-        self.SYSTEM_PROMPT = """
+STARTING_PROMPT = """
             You are a legal research assistant tasked with answering queries based on retrieved case law information. Your goal is to provide accurate, well-cited answers to legal questions using the provided case information.
 
             Here is the query you need to answer:
@@ -53,8 +50,16 @@ class AnthropicLLMProvider(LLMProvider):
             Ensure that every legal principle or argument is supported by an appropriate case citation.
             """
 
+
+class AnthropicLLMProvider(LLMProvider):
+    def __init__(self, api_key: str):
+        self.client = anthropic.Anthropic(api_key=api_key)
+        self.SYSTEM_PROMPT = STARTING_PROMPT
+
     async def generate(self, query_: str, results: List[ResultSchema]) -> generatedSchema:
-        output = self.client.messages.create(
+        print("Generating response...")
+        try:
+            output = self.client.messages.create(
             model="claude-3-haiku-20240307",
             max_tokens=1000,
             temperature=0.5,
@@ -70,11 +75,17 @@ class AnthropicLLMProvider(LLMProvider):
                     ]
                 }
             ]
-        )
-        response = output.content[0].text
-        processed_response = await self.post_process(query_, response, results)
-        print(processed_response)
-        return processed_response
+            )
+            response = output.content[0].text
+            processed_response = await self.post_process(query_, response, results)
+            print(processed_response)
+            return processed_response
+        except Exception as e:
+            print(e)
+            raise HTTPException(
+                status_code=500,
+                detail="There was an error while generating the response.",
+            )
     
     async def post_process(self, query_: str, response: str, results: ResultSchema) -> generatedSchema:
         try:    #response = re.sub(r'\[\(\d+, \d+\)\]', '', response)
@@ -86,3 +97,7 @@ class AnthropicLLMProvider(LLMProvider):
                 status_code=500,
                 detail="There was an error while post-processing the response.",
             )
+        
+    def change_system_prompt(self, prompt: str) -> str:
+        self.SYSTEM_PROMPT = prompt
+        return "System prompt changed successfully."

@@ -25,17 +25,17 @@ def generate_response(username: str, prompt: str):
         print(e)
         return "Error in generating response."
 
-def change_system_prompt(username, prompt):
+def change_system_prompt(username: str, prompt: str):
     try:
+        print(f"Changing system prompt to: {prompt}")
+        print(f"Backend URL: {backend_url}")
         response = requests.post(
-            backend_url + '/api/change-system-prompt',
-            data={
-                "api_key": username,
-                "prompt": prompt
-            },
+            backend_url + '/api/change-system-prompt/'+
+            f"?api_key={username}&prompt={prompt}",
             timeout=50
         )
 
+        print(response.json())
         if response.status_code == 200:
             return response.json()['response']
         else:

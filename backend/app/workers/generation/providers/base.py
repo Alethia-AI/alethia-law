@@ -9,3 +9,6 @@ class LLMProvider(ABC):
     @abstractmethod
     async def generate(self, query: str, results: List[ResultSchema]) -> generatedSchema:
         pass
+
+    def change_system_prompt(prompt) -> bool:
+        pass

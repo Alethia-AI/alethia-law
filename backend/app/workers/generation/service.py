@@ -50,11 +50,22 @@ def get_llm_provider() -> LLMProvider:
                 detail="Invalid llm provider. Please set the LLM_PROVIDER environment variable to either 'anthropic' or 'openai'.",
             )
 
+def change_system_prompt(api_key: str, prompt: str) -> str:
+    llm_provider = get_llm_provider()
+
+    try:
+        response = llm_provider.change_system_prompt(prompt)
+        return response
+    except Exception:
+        raise HTTPException(
+            status_code=500, detail="There was an error while changing the system prompt."
+        )
 
 async def perform_generation(query_: addQuery, results: List[ResultSchema]) -> generatedSchema:
     llm_provider = get_llm_provider()
 
     try:
+        print("Generating response...")
         generated_response = await llm_provider.generate(query_.query, results)
 
         return generated_response

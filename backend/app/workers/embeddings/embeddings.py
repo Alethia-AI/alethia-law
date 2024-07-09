@@ -3,9 +3,12 @@ from openai import OpenAI
 import numpy as np
 from numpy.linalg import norm
 
+
 # Load dotenv file
 from dotenv import load_dotenv
 load_dotenv()
+
+from fastapi import HTTPException
 
 client = OpenAI(api_key=environ["OPENAI_API_KEY"])
 
@@ -44,4 +47,22 @@ def find_relevancy(title_embedding, text_embedding):
 
 
 def prompt_embedding(prompt):
-    return client.embeddings.create(input=prompt, model="text-embedding-3-small").data[0].embedding
+    try:
+        print(f"Building embedding for prompt: {prompt}")
+        try:
+            query_embedding = client.embeddings.create(
+                input=prompt,
+                model="text-embedding-3-small"
+                ).data[0].embedding
+            #print(query_embedding)
+            print(f"Embedding built for prompt: {prompt}")
+            return query_embedding
+        except Exception as e:
+            print(e)
+            return HTTPException(
+                status_code=500, detail="There was an error while building the embedding for the prompt." + str(e)
+            )
+    except Exception as e:
+        raise HTTPException(
+            status_code=500, detail="There was an error while building the embedding for the prompt."
+        )
