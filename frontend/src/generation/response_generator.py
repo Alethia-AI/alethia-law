@@ -15,15 +15,15 @@ def generate_response(username: str, prompt: str):
         )
 
         if response.status_code == 200:
-            return response.json()['response']
+            return response.json()['response'], response.json()['results']
         else:
             # Log detailed error message
             error_details = response.json().get('error', 'Unknown error')
             print(f"Error {response.status_code}: {error_details}")
-            return "Error in generating response."
+            return "Error in generating response.", []
     except Exception as e:
         print(e)
-        return "Error in generating response."
+        return "Error in generating response.", []
 
 def change_system_prompt(username: str, prompt: str):
     try:

@@ -59,7 +59,7 @@ class ResponseSchema(BaseModel):
 class generatedSchema(BaseModel):
     query: str
     response: str
-    results: List[ResultSchema] = Field(default_factory=list)
+    citations: List[str] = Field(default_factory=list)
 
     class Config:
         from_attributes = True

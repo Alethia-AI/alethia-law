@@ -48,7 +48,7 @@ async def search(api_key: str, query: str, query_level: str, max_results: str, b
 
             response = await perform_generation(query_, query_response.results)
 
-            return JSONResponse(content={"response": response.response}, status_code=200)
+            return JSONResponse(content={"response": response.response, "results": response.citations}, status_code=200)
         else:
             return 404
     except Exception as e:

@@ -1,8 +1,8 @@
 import streamlit as st
 import generation.response_generator as generator
 from archive import build_archive
-import time
 
+import time
 import os
 
 
@@ -58,6 +58,7 @@ if "messages" not in st.session_state:
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
+    print(message)
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
 
@@ -65,12 +66,22 @@ if prompt := st.chat_input("What do you want to know?"):
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
-    start_time = time.time()
-    generator_repsonse = generator.generate_response(user_name, prompt)
-    end_time = time.time()
-    st.write(f"Time taken: {end_time - start_time} seconds")
+        # Need to display a loading spinner
+        with st.spinner("Searching the archive..."):
+            time.sleep(2)
+    # Generate the response
+    with st.spinner("Generating response..."):
+        start_time = time.time()
+        generator_response = generator.generate_response(user_name, prompt)
+        end_time = time.time()
+    st.success(f"Time taken: {end_time - start_time} seconds")
     with st.chat_message("assistant"):
-        message = st.write(
-            generator_repsonse
+        with st.expander("**ARCHIVE RESULTS**", expanded=False):
+            # Also want to display the citations
+            for citation in generator_response[1]:
+                st.write(citation)
+        message = generator_response[0] if generator_response[0] else "No response generated"
+        st.write(
+            message
         )
     st.session_state.messages.append({"role": "assistant", "content": message})
