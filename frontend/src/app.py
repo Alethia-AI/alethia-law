@@ -47,7 +47,8 @@ with st.expander("**PROMPT**", expanded=True):
     system_prompt = st.text_area(
                             "SYSTEM_PROMPT",
                             value=utils.generator.get_system_prompt(), 
-                            key="prompt")
+                            key="prompt",
+                            height=300)
     if st.button("Submit", key="submit"):
         if utils.generator.change_system_prompt(system_prompt):
             st.write("System prompt has been updated.")
