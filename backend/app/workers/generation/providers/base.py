@@ -15,3 +15,6 @@ class LLMProvider(ABC):
 
     def get_system_prompt() -> str:
         pass
+
+    async def just_generate(query_list_dict: list[dict]) -> generatedSchema:
+        pass

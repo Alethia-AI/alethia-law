@@ -6,7 +6,7 @@ from fastapi.responses import JSONResponse
 from ..workers.search.service import respond_to_search
 from ..workers.search.utils import add_to_queries, add_to_results, jsonify_results
 from ..workers.search.rerank import rerank
-from ..workers.generation.service import perform_generation, jsonify_generated_response, change_system_prompt, get_system_prompt
+from ..workers.generation.service import perform_generation, jsonify_generated_response, change_system_prompt, get_system_prompt, nsearch_
 
 from ..schema.search import ResponseSchema, addQuery
 
@@ -66,6 +66,41 @@ async def search(api_key: str, query: str, query_level: str, max_results: str, b
         print(e)
         return JSONResponse(content={"message": "There was an error while searching: " + str(e)}, status_code=400)
 
+@router.post('/n-search/')
+async def nsearch(api_key: str, query: str, query_level: str, max_results: str):
+    try:
+        print(query)
+        single_quotes = re.compile('(?<!\\\\)\'')
+        prompt = single_quotes.sub('\"', query)
+        double_quotes = re.compile('(?<!\\\\)\"')
+        prompt = double_quotes.sub('\"', prompt)
+        #print(query_)
+        query_list_dict = json.loads(prompt)
+        print(type(query_list_dict[-1]))
+        current_query = query_list_dict[-1]["content"]
+
+        query_ = addQuery(
+            query=current_query,
+            api_key=api_key,
+            query_level=int(query_level),
+            max_results=int(max_results)
+            )
+        print(query_)
+        prompt = query_.query
+        if not prompt:
+            prompt = Request.args.get('query', '')
+        if prompt:
+
+            response = await nsearch_(query_list_dict)
+
+            return JSONResponse(content={"response": response.response}, status_code=200)
+        else:
+            return 404
+    except Exception as e:
+        print(e)
+        return JSONResponse(content={"message": "There was an error while searching: " + str(e)}, status_code=400)
+
+
 @router.get('/get-system-prompt/')
 async def get_prompt(api_key: str):
     try:
@@ -89,3 +124,4 @@ async def background_task(query_: addQuery, query_results: ResponseSchema):
         print("Skipping adding to results")
         return
     add_to_results(query_id, query_results)
+

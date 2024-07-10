@@ -71,6 +71,19 @@ def get_system_prompt(api_key: str) -> str:
         raise HTTPException(
             status_code=500, detail="There was an error while getting the system prompt."
         )
+    
+async def nsearch_(query_list_dict: list[dict]) -> generatedSchema:
+    llm_provider = get_llm_provider()
+
+    try:
+        print("Searching...")
+        response = await llm_provider.just_generate(query_list_dict)
+
+        return response
+    except Exception:
+        raise HTTPException(
+            status_code=500, detail="There was an error while searching."
+        )
 
 async def perform_generation(query_list_dict: list[dict], results: List[ResultSchema]) -> generatedSchema:
     llm_provider = get_llm_provider()

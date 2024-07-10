@@ -4,7 +4,19 @@ import os
 import json
 
 from utils import utils
+import concurrent.futures
 
+
+# Define a function to generate the response in parallel
+def generate_response(prompt, nprompt):
+    non_augmented_message = utils.generator.non_augmented_generator(prompt)
+    generator_response = utils.generator.generate_response(nprompt)
+    return non_augmented_message, generator_response
+
+def wide_space_default():
+    st.set_page_config(layout="wide")
+
+wide_space_default()
 ### CHAT_INTERFACE ###
 with st.expander("**ARCHIVE**", expanded=True):
 
@@ -49,13 +61,17 @@ if "messages" not in st.session_state or "prompts" not in st.session_state:
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
-    print(message)
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+    cols = st.columns(2)
+    with cols[0]:
+        with st.chat_message(message[0]["role"]):
+            st.markdown(message[0]["content"])
+    with cols[1]:
+        with st.chat_message(message[1]["role"]):
+            st.markdown(message[1]["content"])
 
 if prompt := st.chat_input("What do you want to know?"):
     # Make sure that there are no double quotes in the prompt
-    st.session_state.messages.append({"role": "user", "content": prompt})
+    st.session_state.messages.append(({"role": "user", "content": prompt}, {"role": "user", "content": prompt}))
     with st.chat_message("user"):
         st.markdown(prompt)
         # Need to display a loading spinner
@@ -64,23 +80,37 @@ if prompt := st.chat_input("What do you want to know?"):
     # Generate the response
     prompt = prompt.replace('"', "")
     prompt = prompt.replace('\'', "")
-    st.session_state.prompts.append({"role": "user", "content": prompt})
+    st.session_state.prompts.append(({"role": "user", "content": prompt}, {"role": "user", "content": prompt}))
     with st.spinner("Generating response..."):
-        start_time = time.time()
-        prompt = json.dumps([{"role": m["role"], "content": m["content"]} for m in st.session_state.prompts])
-        generator_response = utils.generator.generate_response(prompt)
-        end_time = time.time()
-    st.success(f"Time taken: {end_time - start_time} seconds")
+        #start_time_rag = time.time()
+        #end_time = time.time()
+        #st.success(f"Time taken: {end_time - start_time_rag} seconds")
+        prompt = json.dumps([{"role": m[0]["role"], "content": m[0]["content"]} for m in st.session_state.prompts])
+        nprompt = json.dumps([{"role": m[1]["role"], "content": m[1]["content"]} for m in st.session_state.prompts])
+        # Use concurrent.futures to run the function in parallel
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            future = executor.submit(generate_response, prompt, nprompt)
     with st.chat_message("assistant"):
-        with st.expander("**ARCHIVE RESULTS**", expanded=False):
-            # Also want to display the citations
-            for citation in generator_response[1]:
-                st.write(citation)
-        message = generator_response[0] if generator_response[0] else "No response generated"
-        st.write(
-            message
-        )
-        message_prompts = message.replace('"', "")
-        message_prompts = message.replace('\'', "")
-    st.session_state.messages.append({"role": "assistant", "content": message})
-    st.session_state.prompts.append({"role": "assistant", "content": message_prompts})
+        cols = st.columns(2)
+        non_augmented_message, generator_response = future.result()
+        with cols[0]:
+            with st.expander("**ARCHIVE RESULTS**", expanded=False):
+                # Also want to display the citations
+                for citation in generator_response[1]:
+                    st.write(citation)
+            message = generator_response[0] if generator_response[0] else "No response generated"
+            st.write(
+                message
+            )
+            message_prompts = message.replace('"', "")
+            message_prompts = message.replace('\'', "")
+        with cols[1]:
+            with st.expander("**LLM**", expanded=False):
+                st.write("[claude-3-haiku-20240307](https://www.anthropic.com/news/claude-3-family)")
+            st.write(
+                non_augmented_message
+            )
+            non_augmented_message_prompts = non_augmented_message.replace('"', "")
+            non_augmented_message_prompts = non_augmented_message.replace('\'', "")
+    st.session_state.messages.append(({"role": "assistant", "content": message}, {"role": "assistant", "content": non_augmented_message}))
+    st.session_state.prompts.append(({"role": "assistant", "content": message_prompts}, {"role": "assistant", "content": non_augmented_message_prompts}))

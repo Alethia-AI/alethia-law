@@ -31,11 +31,14 @@ STARTING_PROMPT = """
             Please ensure that _every_ legal principle or argument is supported by an appropriate citation to the case law from Results above.
             """
 
+nSTARTING_PROMPT = """You are a legal research assistant tasked with answering queries. Your goal is to provide accurate, well-cited answers to legal questions. Please ensure that _every_ legal principle or argument is supported by an appropriate citation to the case law"""
+
 
 class AnthropicLLMProvider(LLMProvider):
     def __init__(self, api_key: str):
         self.client = anthropic.Anthropic(api_key=api_key)
         self.SYSTEM_PROMPT = STARTING_PROMPT
+        self.nSTARTING_PROMPT = nSTARTING_PROMPT
 
     async def generate(self, query_list_dict: list[dict], results_: List[ResultSchema]) -> generatedSchema:
         print("Generating response from Anthropic...")
@@ -114,3 +117,49 @@ class AnthropicLLMProvider(LLMProvider):
                 detail="There was an error while changing the system prompt.",
             )
             return False
+        
+    async def just_generate(self, query_list_dict: list[dict]) -> generatedSchema:
+        print("Generating response from Anthropic...")
+        print(query_list_dict)
+        try:
+            user_query, current_query = self.npre_process(query_list_dict)
+            print("---------------------------")
+            print(user_query)
+            print("---------------------------")
+            output = self.client.messages.create(
+            model="claude-3-haiku-20240307",
+            max_tokens=1000,
+            temperature=0.5,
+            system=self.nSTARTING_PROMPT,
+            messages=user_query,
+            )
+            response = output.content[0].text
+            processed_response = self.npost_process(current_query, response)
+            #print(processed_response)
+            return processed_response
+        except Exception as e:
+            print(e)
+            raise HTTPException(
+                status_code=500,
+                detail="There was an error while generating the response." + str(e),
+            )
+        
+    def npre_process(self, query_list_dict: list[dict]) -> str:
+        current_query = query_list_dict[-1]["content"]
+        #print(current_query)
+        current_query_dict = {"role": "user", "content": current_query}
+        #print(current_query_dict)
+        query_list_dict[-1] = current_query_dict
+        return query_list_dict, current_query
+    
+    def npost_process(self, query_: str, response: str) -> generatedSchema:
+        try:
+            print("Post-processing response...")
+            print(response)
+            return generatedSchema(query=query_, response=response, citations=[])
+        except Exception as e:
+            print(e)
+            raise HTTPException(
+                status_code=500,
+                detail="There was an error while post-processing the response.",
+            )
